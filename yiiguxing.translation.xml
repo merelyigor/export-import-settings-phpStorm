@@ -1,0 +1,73 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="This file is automatically populated with styles if the user selects a custom primary color in the customzier" />
+      <item value="Twenty Nineteen Customizer Styles" />
+      <item value="excerpt" />
+      <item value="unsigned" />
+      <item value="void" />
+      <item value="Category" />
+      <item value="Header Information" />
+      <item value="Auto URL by WDM" />
+      <item value="Characteristics" />
+      <item value="If the current post is protected by a password and * the visitor has not yet entered the password we will * return early without loading the comments." />
+      <item value="change if the mask should have another color then white" />
+      <item value="Initialize uploads chart" />
+      <item value="external" />
+      <item value="I connect js variable with URL to admin ajax requestor" />
+      <item value="There is no content here right now. Please come back later" />
+      <item value="fuck up" />
+      <item value="input" />
+      <item value="How to completely hide all password-protected posts from the site" />
+      <item value="Using this filter, we will determine on which pages it will hide protected posts" />
+      <item value="FROM" />
+      <item value="Format the sql results based on admin settings to needed output for the frontend" />
+      <item value="unset" />
+      <item value="Block Load More" />
+      <item value="Name of business" />
+      <item value="Исключить ли этот тип записей из поиска по сайту. 1 (true) - да, 0 (false) - нет." />
+      <item value="Включить возможность выбирать этот тип записи в меню навигации." />
+      <item value="Сделать этот тип доступным из админ бара." />
+      <item value="Record is restored from edition" />
+      <item value="Advertised" />
+      <item value="на данном примере это будут посты (фото галерея)" />
+      <item value="переименование лейбла «Записи» и сопутствующих ссылок/подсказок:" />
+      <item value="date" />
+      <item value="function adds &lt;a rel=&quot;nofollow&quot; attribute to display links by standard gallery from shortcod" />
+      <item value="wordcode" />
+      <item value="Ограничение на загрузку файлов - установка размера" />
+      <item value="registration" />
+      <item value="recording" />
+      <item value="// вернуть html на страницу вместо указанного shortcod" />
+      <item value="можно вывести кастомное поле которое добавляется к странице ACFом для вывода повторителя с файлом и тд." />
+      <item value="присвоение переменной some_string из коментария выше" />
+      <item value="достаю из shortcod значение для переменной $var" />
+      <item value="инициализация переменной $var для использования в shortcod" />
+      <item value="для использования" />
+      <item value="шордкодов в админке - для использования" />
+      <item value="В дополнение к предыдущим ответам, если ваши пункты меню являются категориями и вы хотите выделить их при навигации по сообщениям, проверьте также" />
+      <item value="так же для текущих стр. и дочерних стр." />
+      <item value="Чтобы также выделить элемент меню, когда активна одна из дочерних страниц, также проверьте другой класс" />
+      <item value="File extension function" />
+      <item value="disconnect Embeds related REST API" />
+      <item value="disconnect doings REST API" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="145" />
+        <entry key="BULGARIAN" value="1" />
+        <entry key="RUSSIAN" value="145" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="ITALIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="RUSSIAN" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>

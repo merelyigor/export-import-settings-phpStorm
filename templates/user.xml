@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="&lt;&gt;" value="&lt;?php  ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="&lt;&gt;=" value="&lt;?=  ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="sole" value="console.log('',);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+    </context>
+  </template>
+</templateSet>

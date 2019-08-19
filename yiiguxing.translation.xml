@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="booked" />
       <item value="This file is automatically populated with styles if the user selects a custom primary color in the customzier" />
       <item value="Twenty Nineteen Customizer Styles" />
       <item value="excerpt" />
@@ -50,13 +51,12 @@
       <item value="Чтобы также выделить элемент меню, когда активна одна из дочерних страниц, также проверьте другой класс" />
       <item value="File extension function" />
       <item value="disconnect Embeds related REST API" />
-      <item value="disconnect doings REST API" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="145" />
+        <entry key="ENGLISH" value="146" />
         <entry key="BULGARIAN" value="1" />
-        <entry key="RUSSIAN" value="145" />
+        <entry key="RUSSIAN" value="146" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>

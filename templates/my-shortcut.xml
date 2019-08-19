@@ -135,4 +135,11 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="str_replace_br" value="preg_replace(&quot;/(\r\n)/&quot;, &quot;&lt;br/&gt;&quot;, $type_room-&gt;description)" description="replace string to &lt;br/&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>

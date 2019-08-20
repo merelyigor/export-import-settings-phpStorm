@@ -1,5 +1,5 @@
 <templateSet group="my-shortcut">
-  <template name="log" value="console.log('');" description="console.log('');" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="console.log('', );" description="console.log(' ', );" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="HTML" value="true" />

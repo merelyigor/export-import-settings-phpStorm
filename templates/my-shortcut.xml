@@ -149,14 +149,14 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="&lt;&gt;=f" value="&lt;?php foreach ($array as $key =&gt; $item) { ?&gt;&#10;    &lt;?= dd($item); ?&gt;&#10;&lt;?php } ?&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="&lt;&gt;=f" value="&lt;?php foreach ($array as $key =&gt; $item) { ?&gt;&#10;    &lt;?= dd($item); ?&gt;&#10;&lt;?php } ?&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="&lt;php&gt;f" value="&lt;?php &#10;foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} &#10;?&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="&lt;php&gt;f" value="&lt;?php &#10;foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} &#10;?&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />

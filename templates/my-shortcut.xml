@@ -177,4 +177,10 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="@mob" value="@media screen and (max-width: $width-container)" description="@media screen and (max-width: $max-container)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
 </templateSet>

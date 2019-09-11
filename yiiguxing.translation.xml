@@ -1,10 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="array of list items" />
-      <item value="An extra! This function implements jQuery autocomplete in the searchbox. Uncomment to use :)" />
-      <item value="Powered by" />
-      <item value="Powered by a" />
+      <item value="Overwriting URLs on single posts page" />
+      <item value="Cuts a string to a certain number of characters without breaking words." />
+      <item value="eslint-disable-line" />
+      <item value="Uncomment the following lines before running the sample" />
+      <item value="Detects speech in a local audio file by streaming it to the Speech API" />
+      <item value="Detects speech in a microphone input stream. This command requires that you have SoX installed and available in your $PATH. See https://www.npmjs.com/package/node-record-lpcm16#dependencies" />
+      <item value="Detects speech in a local audio file using provided model" />
+      <item value="Detects speech in a local audio file with auto punctuation" />
+      <item value="Detects speech in an audio file located in a Google Cloud Storage bucket using provided model" />
+      <item value="Detects speech in a local audio file using an enhanced model" />
+      <item value="Differentiates input by audio channel in local audio file" />
+      <item value="Differentiates input by audio channel in an audio file located in a Google Cloud Storage bucket" />
+      <item value="with word time" />
+      <item value="Creates a job to detect speech with word time offset in an audio file located in a Google Cloud Storage bucket, and waits for the job to complete" />
+      <item value="Creates a job to detect speech in an audio file located in a Google Cloud Storage bucket, and waits for the job to complete" />
+      <item value="Creates a job to detect speech in a local audio file, and waits for the job to complete" />
+      <item value="Detects speech in a local audio file with word time offset" />
+      <item value="located" />
+      <item value="LOCATED" />
+      <item value="Detects speech in an audio file located in a Google Cloud Storage bucket" />
+      <item value="Detects speech in a local audio file" />
       <item value="The name and signature of the console command" />
       <item value="latitude" />
       <item value="lat" />
@@ -34,30 +51,13 @@
       <item value="Block Load More" />
       <item value="Name of business" />
       <item value="Исключить ли этот тип записей из поиска по сайту. 1 (true) - да, 0 (false) - нет." />
-      <item value="Включить возможность выбирать этот тип записи в меню навигации." />
-      <item value="Сделать этот тип доступным из админ бара." />
-      <item value="Record is restored from edition" />
-      <item value="Advertised" />
-      <item value="на данном примере это будут посты (фото галерея)" />
-      <item value="переименование лейбла «Записи» и сопутствующих ссылок/подсказок:" />
-      <item value="date" />
-      <item value="function adds &lt;a rel=&quot;nofollow&quot; attribute to display links by standard gallery from shortcod" />
-      <item value="wordcode" />
-      <item value="Ограничение на загрузку файлов - установка размера" />
-      <item value="registration" />
-      <item value="recording" />
-      <item value="// вернуть html на страницу вместо указанного shortcod" />
-      <item value="можно вывести кастомное поле которое добавляется к странице ACFом для вывода повторителя с файлом и тд." />
-      <item value="присвоение переменной some_string из коментария выше" />
-      <item value="достаю из shortcod значение для переменной $var" />
-      <item value="инициализация переменной $var для использования в shortcod" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="152" />
+        <entry key="ENGLISH" value="173" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="152" />
+        <entry key="RUSSIAN" value="173" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>

@@ -3,17 +3,18 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
   <action id="$TranslateAndReplaceAction">
-    <keyboard-shortcut first-keystroke="ctrl meta o" />
-    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="meta alt t" />
+    <keyboard-shortcut first-keystroke="meta alt 2" />
   </action>
   <action id="Editor TranslateAndReplaceAction">
-    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="meta alt 1" />
   </action>
   <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="shift ctrl s" />

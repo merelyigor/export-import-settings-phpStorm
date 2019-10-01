@@ -183,4 +183,10 @@
       <option name="HTML" value="true" />
     </context>
   </template>
+  <template name="switch" value="switch ($i) {&#10;    case 0:&#10;        echo &quot;i равно 0&quot;;&#10;        break;&#10;    case 1:&#10;        echo &quot;i равно 1&quot;;&#10;        break;&#10;    case 2:&#10;        echo &quot;i равно 2&quot;;&#10;        break;&#10;    default:&#10;       echo &quot;i не равно 0, 1 или 2&quot;;&#10;}&#10;&#10;switch ($i):&#10;    case 0:&#10;        echo &quot;i равно 0&quot;;&#10;        break;&#10;    case 1:&#10;        echo &quot;i равно 1&quot;;&#10;        break;&#10;    case 2:&#10;        echo &quot;i равно 2&quot;;&#10;        break;&#10;    default:&#10;        echo &quot;i не равно to 0, 1 или 2&quot;;&#10;endswitch;" description="switch case php" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

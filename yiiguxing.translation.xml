@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="execution" />
       <item value="for infinite time of execution" />
       <item value="Overwriting URLs on single posts page" />
       <item value="Cuts a string to a certain number of characters without breaking words." />
@@ -50,14 +51,13 @@
       <item value="Format the sql results based on admin settings to needed output for the frontend" />
       <item value="unset" />
       <item value="Block Load More" />
-      <item value="Name of business" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="175" />
+        <entry key="ENGLISH" value="176" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="175" />
+        <entry key="RUSSIAN" value="176" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>

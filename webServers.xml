@@ -233,6 +233,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="3e3c518c-1c8a-4975-8111-dfac580b07ef" name="promprld-lendings" url="http://172.104.247.249">
+        <fileTransfer host="172.104.247.249" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

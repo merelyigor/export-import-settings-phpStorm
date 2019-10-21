@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hour" />
       <item value="timeout" />
       <item value="execution" />
       <item value="for infinite time of execution" />
@@ -50,14 +51,13 @@
       <item value="Using this filter, we will determine on which pages it will hide protected posts" />
       <item value="FROM" />
       <item value="Format the sql results based on admin settings to needed output for the frontend" />
-      <item value="unset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="178" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="177" />
+        <entry key="RUSSIAN" value="178" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />
       </map>

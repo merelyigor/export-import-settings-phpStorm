@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="path to the parent directories of the finished build and the folder with the source files" />
+      <item value="path to the parent directories of the finished theme and the folder with the source files" />
       <item value="voting" />
       <item value="voiting" />
       <item value="hour" />
@@ -49,15 +51,13 @@
       <item value="There is no content here right now. Please come back later" />
       <item value="fuck up" />
       <item value="input" />
-      <item value="How to completely hide all password-protected posts from the site" />
-      <item value="Using this filter, we will determine on which pages it will hide protected posts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="181" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="179" />
+        <entry key="RUSSIAN" value="181" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="ITALIAN" value="1" />

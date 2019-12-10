@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="%ефиду_тфьу" />
+      <item value="бд" />
       <item value="write to db" />
       <item value="по айди" />
       <item value="с постов и страниц категорий в шаблоне архивов" />
@@ -49,8 +51,6 @@
       <item value="unsigned" />
       <item value="void" />
       <item value="Category" />
-      <item value="Header Information" />
-      <item value="Auto URL by WDM" />
     </histories>
     <option name="languageScores">
       <map>
@@ -60,6 +60,7 @@
         <entry key="RUSSIAN" value="188" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
+        <entry key="SERBIAN" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>

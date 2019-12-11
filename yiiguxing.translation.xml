@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="does not exist requested post" />
+      <item value="execute a request to the WP database" />
       <item value="unsigned" />
       <item value="i write all the post data in a table $table_name to the columns id_post, title, content" />
       <item value="table name in export database" />
@@ -49,15 +51,13 @@
       <item value="Creates a job to detect speech in a local audio file, and waits for the job to complete" />
       <item value="Detects speech in a local audio file with word time offset" />
       <item value="located" />
-      <item value="LOCATED" />
-      <item value="Detects speech in an audio file located in a Google Cloud Storage bucket" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="200" />
+        <entry key="ENGLISH" value="202" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="200" />
+        <entry key="RUSSIAN" value="202" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="акцептора" />
       <item value="removed postpone brute force in script" />
       <item value="Get a result row as an enumerated array" />
       <item value="false ERROR - does not exist requested post --&gt; 288709" />
@@ -50,7 +51,6 @@
       <item value="Differentiates input by audio channel in an audio file located in a Google Cloud Storage bucket" />
       <item value="with word time" />
       <item value="Creates a job to detect speech with word time offset in an audio file located in a Google Cloud Storage bucket, and waits for the job to complete" />
-      <item value="Creates a job to detect speech in an audio file located in a Google Cloud Storage bucket, and waits for the job to complete" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,6 +61,7 @@
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />
+        <entry key="UKRAINIAN" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>

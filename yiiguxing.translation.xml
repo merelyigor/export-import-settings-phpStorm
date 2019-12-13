@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="connect the csv file to the specified path" />
+      <item value="true to make the script work and false to disable the script" />
+      <item value="without a domain starts and ends on" />
       <item value="акцептора" />
       <item value="removed postpone brute force in script" />
       <item value="Get a result row as an enumerated array" />
@@ -48,16 +51,13 @@
       <item value="Detects speech in an audio file located in a Google Cloud Storage bucket using provided model" />
       <item value="Detects speech in a local audio file using an enhanced model" />
       <item value="Differentiates input by audio channel in local audio file" />
-      <item value="Differentiates input by audio channel in an audio file located in a Google Cloud Storage bucket" />
-      <item value="with word time" />
-      <item value="Creates a job to detect speech with word time offset in an audio file located in a Google Cloud Storage bucket, and waits for the job to complete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="205" />
+        <entry key="ENGLISH" value="208" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="205" />
+        <entry key="RUSSIAN" value="208" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="added to update posts for tag filter tag adding script" />
       <item value="[^\/]+(?=\/$|$)" />
       <item value="hours_" />
       <item value="term added SUCCESSFULLY" />
@@ -50,11 +51,10 @@
       <item value="hour" />
       <item value="timeout" />
       <item value="execution" />
-      <item value="for infinite time of execution" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="219" />

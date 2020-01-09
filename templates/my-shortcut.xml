@@ -1,0 +1,192 @@
+<templateSet group="my-shortcut">
+  <template name="log" value="console.log('', );" description="console.log(' ', );" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="&lt;&gt;" value="&lt;?php  ?&gt;" description="&lt;?php  ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="&lt;&gt;=" value="&lt;?=  ?&gt;" description="&lt;?=  ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HAML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="dd" value="dd();" description="varDump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HAML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="func" value="function anything(){&#10;&#10;};" description="function anything(){  };" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Bash" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HAML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="onclick" value="$(&quot;#anything&quot;).on('click', function(){&#10;&#10;});" description="JQuery - on 'click', function()" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jsbuttonup" value="// SHOW AND HIDE BUTTON CLICK UP BUTTON&#10;$(window).scroll(function () {&#10;    if ($(this).scrollTop() &gt; 50) {&#10;        $('.js-up').css('visibility', 'visible');&#10;    } else {&#10;        $('.js-up').css('visibility', 'hidden');&#10;    }&#10;});" description="add jQuery function to show and hide scroll buttons up page" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jsscrolltop" value="$('.js-up-scroll').on('click', function () {&#10;    $('html, body').animate({scrollTop: 0}, 1000);&#10;    return false;&#10;});" description="JQuery function to smoothly scroll up the page" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="!doc" value="$(document).ready(function () {&#10;    &#10;});" description="$(document).ready(function () {  });" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jsscrollblock" value="$(&quot;.js-scroll-to-id-block&quot;).on('click', function () {&#10;    $([document.documentElement, document.body]).animate({&#10;        scrollTop: $(&quot;#this-block-id-to-scroll&quot;).offset().top&#10;    }, 1000);&#10;});" description="JQuery function to scroll to a block by id." toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jscopytext" value="$(&quot;.js-copy-button-class&quot;).on('click', function () {&#10;    let $temp = $(&quot;&lt;textarea&gt;&quot;);&#10;    $(&quot;body&quot;).append($temp);&#10;    $temp.val($(&quot;#copy-text-this-id&quot;).text()).select();&#10;    document.execCommand(&quot;copy&quot;);&#10;    $temp.remove();&#10;});" description="JQuery copy text function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="jsfancyboxinit" value="// FANCYBOX MAIN FUNCTION&#10;let options_popup = {&#10;    toolbar: false,&#10;    smallBtn: false,&#10;};&#10;&#10;function popup_content(var_if) {&#10;&#10;    let popup_1 = &quot;&lt;span class=\&quot;this-content-html-popup\&quot;&gt;this content html popup&lt;/span&gt;&quot;;&#10;&#10;    let popup_2 = {&#10;        src  : '#popup-dictionary', // this id block with content html popup&#10;        type : 'inline',&#10;        opts : { // option fancybox&#10;            touch: false,&#10;            toolbar: false,&#10;            smallBtn: false,&#10;        }&#10;    };&#10;&#10;    if (var_if === 'popup-1')&#10;        return popup_1;&#10;    if (var_if === 'popup-2')&#10;        return popup_2;&#10;}&#10;&#10;$(&quot;.js-popup-1-button-show-popup&quot;).on('click', function () {&#10;    $.fancybox.open(popup_content('popup-1'), options_popup);&#10;});&#10;&#10;$(&quot;.js-popup-2-button-show-popup&quot;).on('click', function () {&#10;    $.fancybox.open(popup_content('popup-2'));&#10;});" description="button popup fancybox initialization function" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="unbind" value="$(&quot;.your-onclick-object&quot;).unbind('click');" description="QJuery unbind click event" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="sole" value="console.log('', );" description="console.log('', );" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="str_replace_br" value="preg_replace(&quot;/(\r\n)/&quot;, &quot;&lt;br/&gt;&quot;, $type_room-&gt;description)" description="replace string to &lt;br/&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="getDates" value="function getDatesArrayFromTo($start_date, $end_date, $format = 'Y-m-d')&#10;{&#10;    $array = array();&#10;    $interval = new DateInterval('P1D');&#10;&#10;    $realEnd = new DateTime($end_date);&#10;    $realEnd-&gt;add($interval);&#10;&#10;    $period = new DatePeriod(new DateTime($start_date), $interval, $realEnd);&#10;&#10;    foreach ($period as $date) {&#10;        $array[] = $date-&gt;format($format);&#10;    }&#10;&#10;    return $array;&#10;}" description="получить масив дат зная начальную дату и конечную" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="&lt;&gt;=f" value="&lt;?php foreach ($array as $key =&gt; $item) { ?&gt;&#10;    &lt;?= dd($item); ?&gt;&#10;&lt;?php } ?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="&lt;php&gt;f" value="&lt;?php &#10;foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} &#10;?&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="fore" value="foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} " description="foreach func php" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="sett" value="setTimeout(function () {&#10;&#10;}, 500);" description="setTimeout" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="@mob" value="@media screen and (max-width: $width-container)" description="@media screen and (max-width: $max-container)" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($i) {&#10;    case 0:&#10;        echo &quot;i равно 0&quot;;&#10;        break;&#10;    case 1:&#10;        echo &quot;i равно 1&quot;;&#10;        break;&#10;    case 2:&#10;        echo &quot;i равно 2&quot;;&#10;        break;&#10;    default:&#10;       echo &quot;i не равно 0, 1 или 2&quot;;&#10;}&#10;&#10;switch ($i):&#10;    case 0:&#10;        echo &quot;i равно 0&quot;;&#10;        break;&#10;    case 1:&#10;        echo &quot;i равно 1&quot;;&#10;        break;&#10;    case 2:&#10;        echo &quot;i равно 2&quot;;&#10;        break;&#10;    default:&#10;        echo &quot;i не равно to 0, 1 или 2&quot;;&#10;endswitch;" description="switch case php" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

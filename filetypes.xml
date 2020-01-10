@@ -1,0 +1,23 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="dsl" type="C++" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="origin" type="PLAIN_TEXT" />
+      <mapping pattern=".bowerrs" type="PLAIN_TEXT" />
+      <mapping pattern="patch-teclast-dsdt" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="aml" type="TypeScript" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping pattern="html" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+    </extensionMap>
+  </component>
+</application>

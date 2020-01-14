@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true to make the script work and false to disable the script" />
       <item value="added to update posts for tag filter tag adding script" />
       <item value="[^\/]+(?=\/$|$)" />
       <item value="hours_" />
@@ -14,7 +15,6 @@
       <item value="i write all the post data in a table swp_redirection_items" />
       <item value="Delimiter must not be alphanumeric or backslash" />
       <item value="connect the csv file to the specified path" />
-      <item value="true to make the script work and false to disable the script" />
       <item value="without a domain starts and ends on" />
       <item value="акцептора" />
       <item value="removed postpone brute force in script" />
@@ -54,7 +54,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="218" />
+        <entry key="ENGLISH" value="219" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="RUSSIAN" value="219" />

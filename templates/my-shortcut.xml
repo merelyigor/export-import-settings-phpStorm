@@ -189,4 +189,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="ddfunc" value="function dd($var_dump, $die = false)&#10;{&#10;    echo '&lt;pre style=&quot;color:#850085;z-index:999999999!important;position:relative;&quot;&gt;';&#10;    var_dump($var_dump);&#10;    echo '&lt;/pre&gt;';&#10;    if ($die) {&#10;    wp_die();&#10;    }&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

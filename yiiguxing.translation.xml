@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Tools ini untuk kebutuhan sehari-hari" />
       <item value="Creator" />
       <item value="latest" />
       <item value="if someone decides to improve my template I will be happy to help you can contact me in any way" />
@@ -50,19 +51,19 @@
       <item value="function of forming user modifiable data array by its identifier" />
       <item value="user tape forming functions further below" />
       <item value="функции формирования ленты юзера далее ниже" />
-      <item value="opacity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="225" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="225" />
+        <entry key="RUSSIAN" value="226" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>

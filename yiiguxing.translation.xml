@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="was successfully insert to table" />
+      <item value="was successfully insert" />
+      <item value="post data with id" />
+      <item value="id post data with" />
+      <item value="I execute a database query" />
       <item value="Work with exporting posts content to sql database table" />
       <item value="slug child category" />
       <item value="Redirect if 'category_redirect' is set" />
@@ -37,7 +42,6 @@
       <item value="unsigned" />
       <item value="i write all the post data in a table $table_name to the columns id_post, title, content" />
       <item value="table name in export database" />
-      <item value="I execute a database query" />
       <item value="recording logic (id_post, title, content) to the table with the title" />
       <item value="I connect the csv file to the specified path" />
       <item value="by post_id" />
@@ -47,17 +51,13 @@
       <item value="%ефиду_тфьу" />
       <item value="бд" />
       <item value="write to db" />
-      <item value="по айди" />
-      <item value="с постов и страниц категорий в шаблоне архивов" />
-      <item value="убрал все тесты и исправил заливку" />
-      <item value="Current url with category slug" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="232" />
+        <entry key="ENGLISH" value="237" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="232" />
+        <entry key="RUSSIAN" value="237" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />

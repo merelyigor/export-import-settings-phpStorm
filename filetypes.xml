@@ -4,12 +4,12 @@
       <mapping ext="dsl" type="C++" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="example" type="PLAIN_TEXT" />
       <mapping pattern="origin" type="PLAIN_TEXT" />
+      <mapping pattern=".bowerrs" type="PLAIN_TEXT" />
       <mapping pattern="patch-teclast-dsdt" type="PLAIN_TEXT" />
       <mapping pattern="ib_logfile1" type="PLAIN_TEXT" />
-      <mapping pattern="example" type="PLAIN_TEXT" />
       <mapping pattern="ib_logfile0" type="PLAIN_TEXT" />
-      <mapping pattern=".bowerrs" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />

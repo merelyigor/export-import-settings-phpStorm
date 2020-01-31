@@ -4,6 +4,7 @@
       <mapping ext="dsl" type="C++" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="wp" type="PLAIN_TEXT" />
       <mapping pattern="origin" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrs" type="PLAIN_TEXT" />
       <mapping pattern="patch-teclast-dsdt" type="PLAIN_TEXT" />

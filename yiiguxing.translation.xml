@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Running Homebrew as root is extremely dangerous and no longer supported. As Homebrew does not drop privileges on installation you would be giving all build scripts full access to your system." />
       <item value="Add redirect for flashcard category" />
       <item value="this array can contain category names, slugs or even IDs" />
       <item value="The Database Collate type. Don't change this if in doubt" />
@@ -50,14 +51,13 @@
       <item value="акцептора" />
       <item value="removed postpone brute force in script" />
       <item value="Get a result row as an enumerated array" />
-      <item value="false ERROR - does not exist requested post --&gt; 288709" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="250" />
+        <entry key="RUSSIAN" value="251" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />

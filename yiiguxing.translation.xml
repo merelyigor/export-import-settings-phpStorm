@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="успешно" />
       <item value="styles unrelated to zoom" />
       <item value="es unrelated to zoom" />
       <item value="replicas" />
@@ -50,14 +51,13 @@
       <item value="and their subsequent removal from the WordPress database and the plugin" />
       <item value="generate an array id from the csv file" />
       <item value="I form an array from a csv file" />
-      <item value="%ефиду_тфьу" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="234" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="234" />
+        <entry key="RUSSIAN" value="235" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />

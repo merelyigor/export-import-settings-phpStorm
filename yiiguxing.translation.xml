@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="страницы тегов" />
       <item value="Running Homebrew as root is extremely dangerous and no longer supported. As Homebrew does not drop privileges on installation you would be giving all build scripts full access to your system." />
       <item value="Add redirect for flashcard category" />
       <item value="this array can contain category names, slugs or even IDs" />
@@ -50,7 +51,6 @@
       <item value="without a domain starts and ends on" />
       <item value="акцептора" />
       <item value="removed postpone brute force in script" />
-      <item value="Get a result row as an enumerated array" />
     </histories>
     <option name="languageScores">
       <map>

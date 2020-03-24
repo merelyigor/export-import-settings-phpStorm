@@ -1,5 +1,5 @@
 <templateSet group="my-shortcut">
-  <template name="log" value="console.log('', );" description="console.log(' ', );" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="console.log('');" description="console.log(' ');" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="HTML" value="true" />
@@ -128,7 +128,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="sole" value="console.log('', );" description="console.log('', );" toReformat="false" toShortenFQNames="true">
+  <template name="sole" value="console.log('');" description="console.log('');" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="HTML" value="true" />

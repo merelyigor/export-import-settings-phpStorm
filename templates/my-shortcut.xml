@@ -195,4 +195,16 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="acfhideadmin" value="add_filter( 'acf/settings/show_admin', '__return_false' );" description="скрыть GUI настройки acf плагина в админке" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="acfoptionpage" value="if (function_exists('acf_add_options_page'))&#10;    acf_add_options_page([&#10;        'page_title' =&gt; 'Site Settings Menu',&#10;        'menu_title' =&gt; 'Configure email sending',&#10;        'menu_slug' =&gt; 'theme-email-settings',&#10;        'capability' =&gt; 'edit_posts',&#10;        'redirect' =&gt; true&#10;    ]);" description="регистрация страницы с настройками для ACF плагина" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

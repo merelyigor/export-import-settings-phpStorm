@@ -213,4 +213,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="get_level_terms" value="/*****&#10; * Determining the category level&#10; ******/&#10;function get_levels_terms($this_term_obg)&#10;{&#10;    $ancestors = get_ancestors($this_term_obg-&gt;term_id, $this_term_obg-&gt;taxonomy);&#10;    $level = count($ancestors);&#10;    return ++$level;&#10;}" description="получить уровень вложенности категории" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

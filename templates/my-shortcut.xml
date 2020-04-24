@@ -156,7 +156,7 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="&lt;php&gt;f" value="&lt;?php &#10;foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} &#10;?&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="foreach" value="&lt;?php &#10;foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} &#10;?&gt;" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
@@ -214,6 +214,12 @@
     </context>
   </template>
   <template name="get_level_terms" value="/*****&#10; * Determining the category level&#10; ******/&#10;function get_levels_terms($this_term_obg)&#10;{&#10;    $ancestors = get_ancestors($this_term_obg-&gt;term_id, $this_term_obg-&gt;taxonomy);&#10;    $level = count($ancestors);&#10;    return ++$level;&#10;}" description="получить уровень вложенности категории" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="xhprof" value="tideways_xhprof_enable(TIDEWAYS_XHPROF_FLAGS_MEMORY | TIDEWAYS_XHPROF_FLAGS_CPU);&#10;&#10;&#10;file_put_contents(&#10;    &quot;/var/www/html/etc/xhprof&quot; . DIRECTORY_SEPARATOR . uniqid() . '.myapplication.xhprof',&#10;    serialize(tideways_xhprof_disable())&#10;);" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />

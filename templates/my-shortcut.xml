@@ -219,7 +219,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="xhprof" value="tideways_xhprof_enable(TIDEWAYS_XHPROF_FLAGS_MEMORY | TIDEWAYS_XHPROF_FLAGS_CPU);&#10;&#10;&#10;file_put_contents(&#10;    &quot;/var/www/html/etc/xhprof&quot; . DIRECTORY_SEPARATOR . uniqid() . '.myapplication.xhprof',&#10;    serialize(tideways_xhprof_disable())&#10;);" toReformat="false" toShortenFQNames="true">
+  <template name="xhprof" value="tideways_xhprof_enable(TIDEWAYS_XHPROF_FLAGS_MEMORY | TIDEWAYS_XHPROF_FLAGS_CPU);&#10;&#10;&#10;file_put_contents(&#10;    &quot;/var/www/html/etc/xhprof&quot; . DIRECTORY_SEPARATOR . uniqid() . '.myapplication.xhprof',&#10;    serialize(tideways_xhprof_disable())&#10;);" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />

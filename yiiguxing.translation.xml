@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="modular and inject into them plain data structures" />
+      <item value="In our case this overhead is required to make templates" />
       <item value="list of parameters consumed by layout" />
       <item value="_type - layout type" />
       <item value="Each layout contains two fields" />
@@ -49,15 +51,13 @@
       <item value="was successfully insert" />
       <item value="post data with id" />
       <item value="id post data with" />
-      <item value="I execute a database query" />
-      <item value="Work with exporting posts content to sql database table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="278" />
+        <entry key="ENGLISH" value="280" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="278" />
+        <entry key="RUSSIAN" value="280" />
         <entry key="FINNISH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />

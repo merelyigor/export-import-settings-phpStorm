@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="убрал вывод блока в сатбаре Related Categories если у текущей категории нетт дочерних" />
       <item value="moved blocks in the footer" />
       <item value="args - list of parameters consumed by layout" />
       <item value="_type - layout type" />
@@ -50,7 +51,6 @@
       <item value="the variable deduces from the csv file the value from the third column" />
       <item value="SPECIFY ALL in argument(2) TO SELECT ALL CSV FILE SPEAKERS" />
       <item value="no post search method selected" />
-      <item value="was successfully insert to table" />
     </histories>
     <option name="languageScores">
       <map>

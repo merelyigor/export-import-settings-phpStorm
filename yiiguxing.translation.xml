@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="paginations" />
       <item value="Allows to configure query for pagination" />
       <item value="Repeat text strings" />
       <item value="убрал вывод блока в сатбаре Related Categories если у текущей категории нетт дочерних" />
@@ -50,15 +51,15 @@
       <item value="Display WordPress content directory" />
       <item value="The number of posts for posting in one day" />
       <item value="columt" />
-      <item value="the variable deduces from the csv file the value from the third column" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="287" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="287" />
+        <entry key="RUSSIAN" value="288" />
         <entry key="FINNISH" value="1" />
+        <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />

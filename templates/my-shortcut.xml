@@ -52,7 +52,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="func" value="function anything(){&#10;&#10;};" description="function anything(){  };" toReformat="false" toShortenFQNames="true">
+  <template name="func" value="function anything($args){&#10;&#10;}" description="function anything(){  };" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Bash" value="false" />
       <option name="CSS" value="false" />

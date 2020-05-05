@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Chieftec only" />
+      <item value="Корпус" />
+      <item value="They became very cheaper after the decline of mining" />
+      <item value="ватт" />
       <item value="так же желательно обновить драйвера" />
       <item value="smbios data transfer scheme in config.plist" />
       <item value="according to this scheme" />
@@ -47,18 +51,14 @@
       <item value="fix search page - concluded banner after the third post and the conclusion of relevant categories after the 11th post" />
       <item value="bug fix search page - concluded banner after the third post and the conclusion of relevant categories after the 11th post" />
       <item value="fixed search page" />
-      <item value="display categories of the current level on the page without this current category" />
-      <item value="categories of the same level are displayed without the current" />
-      <item value="Настройка email отправки" />
-      <item value="File not exist" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="ENGLISH" value="316" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="313" />
+        <entry key="RUSSIAN" value="316" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />

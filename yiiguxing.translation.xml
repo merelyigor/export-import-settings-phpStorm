@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="6. After all the steps you need to transfer the data to config.plist according to this scheme via [PlistEdit" />
       <item value="Closed repo with a mine personal config" />
       <item value="only for me" />
       <item value="only for my" />
@@ -50,15 +51,14 @@
       <item value="Extracts layouts information into plain arrays" />
       <item value="see" />
       <item value="modular and inject into them plain data structures" />
-      <item value="In our case this overhead is required to make templates" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
-        <entry key="RUSSIAN" value="326" />
+        <entry key="RUSSIAN" value="327" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="NORWEGIAN" value="1" />

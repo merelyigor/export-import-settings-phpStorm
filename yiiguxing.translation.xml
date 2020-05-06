@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="then choose the 3rd option" />
+      <item value="If you are me or you have access to my repo with config.plist then choose the 3rd option" />
+      <item value="If you do not have such a repository then you will have to manually configure SMBIOS in the existing config.plist" />
+      <item value="yes i have such a repo" />
+      <item value="i have such a repo" />
+      <item value="ʏᴇs i have such a repo" />
+      <item value="нужный для клонирования репозиториев с github и тд." />
+      <item value="The config in the repository should have this path" />
+      <item value="The config in the repository should be in this way" />
+      <item value="Do you have an ssh repo link with your custom config" />
+      <item value="I clean the trash" />
+      <item value="ɴᴇᴇᴅ ᴛᴏ ᴇɴᴛᴇʀ 1 ᴏʀ 2" />
+      <item value="Yᴏᴜ ᴇɴᴛᴇʀᴇᴅ ᴛʜᴇ ᴡʀᴏɴɢ ᴄᴏᴍᴍᴀɴᴅ" />
+      <item value="You entered the wrong command need to enter 1 or 2" />
+      <item value="Вы ввели неправильную команду нужно ввести 1 или 2" />
+      <item value="Confirm the action 1:yes 2:No" />
+      <item value="Confirm the action by entering 1 and pressing Enter" />
+      <item value="Confirm the action by entering and pressing Enter" />
+      <item value="Confirm the action by entering the unit and pressing Enter" />
       <item value="Go the path Volumes" />
       <item value="Crossing the path" />
       <item value="Move the EFI magic folder to its rightful place" />
@@ -32,36 +51,19 @@
       <item value="Корпус" />
       <item value="They became very cheaper after the decline of mining" />
       <item value="ватт" />
-      <item value="так же желательно обновить драйвера" />
-      <item value="smbios data transfer scheme in config.plist" />
-      <item value="according to this scheme" />
-      <item value="After all the steps you need to transfer the data to" />
-      <item value="After all the steps you need to transfer the data to config" />
-      <item value="then also a random number of times click below on the Generate button" />
-      <item value="Press the random number of times on the button" />
-      <item value="Open Clover Configurator and go to the tab" />
-      <item value="poppy" />
-      <item value="in order to configure the config.plist file you need any poppy or its virtual image on the windows" />
-      <item value="in order to configure the config.plist" />
-      <item value="Gen SMBIOS" />
-      <item value="Proper Tree" />
-      <item value="or not available" />
-      <item value="Any DDR4 which is supported by the processor and motherboard" />
-      <item value="with or without integrated graphics" />
-      <item value="Possibly Compatible" />
-      <item value="Compatible" />
-      <item value="Mine" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="ENGLISH" value="359" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
-        <entry key="RUSSIAN" value="343" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="358" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
+        <entry key="CORSICAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SERBIAN" value="2" />

@@ -1,6 +1,26 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="не найдена" />
+      <item value="отсутствует" />
+      <item value="домашняя дериктория" />
+      <item value="due to Error" />
+      <item value="Enter or paste a link to your repository containing" />
+      <item value="INPUT" />
+      <item value="What kind of repo with custom config could you read in REDME at the link" />
+      <item value="EFI SUCCESSFULLY MOVED TO ESP SECTION" />
+      <item value="You have no CLOVER bootloader EFI folder" />
+      <item value="You have no CLIER bootloader EFI folder" />
+      <item value="repeat the installation of the config again using the link" />
+      <item value="if you did everything strictly according to the instructions and checked then this error would not have happened" />
+      <item value="So you don’t have an SSH key to access the repo or the link is wrong or your repo does not comply with the rules of this script" />
+      <item value="You need to have an SSH key or another way to clone your repository" />
+      <item value="Or your repository does not have the correct name" />
+      <item value="Exit" />
+      <item value="To retry" />
+      <item value="Retry" />
+      <item value="Mount the EFI partition of the drive or flash drive and try again" />
+      <item value="You do not have a mounted EFI partition" />
       <item value="My Magical EFI child" />
       <item value="Me Egic" />
       <item value="permision" />
@@ -31,36 +51,16 @@
       <item value="Confirm the action 1:yes 2:No" />
       <item value="Confirm the action by entering 1 and pressing Enter" />
       <item value="Confirm the action by entering and pressing Enter" />
-      <item value="Confirm the action by entering the unit and pressing Enter" />
-      <item value="Go the path Volumes" />
-      <item value="Crossing the path" />
-      <item value="Move the EFI magic folder to its rightful place" />
-      <item value="Find the associated EFI partition on DiskDevice" />
-      <item value="check if target volume is a logical Volume instead of physical" />
-      <item value="find whole disk for the destination volume" />
-      <item value="Note: Based on CloverPackage MountESP script" />
-      <item value="Volume on disk1s1 failed to mount" />
-      <item value="what was your score on the tonedeaf test" />
-      <item value="tonedeaf" />
-      <item value="se scripts" />
-      <item value="Screenshots with my settings BIOS" />
-      <item value="optional" />
-      <item value="Set default" />
-      <item value="Mandatory before all settings to reset the BIOS to default settings" />
-      <item value="press F7 to switch in UEFI Advance Mode" />
-      <item value="to bridle in" />
-      <item value="###### Mandatory settings (all settings are made in UEFI Advance Mode press F7 to bridle in UEFI Advance Mode)" />
-      <item value="6. After all the steps you need to transfer the data to config.plist according to this scheme via [PlistEdit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="368" />
+        <entry key="ENGLISH" value="387" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="368" />
+        <entry key="RUSSIAN" value="388" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

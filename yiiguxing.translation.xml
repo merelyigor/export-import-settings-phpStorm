@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="So how do make your own repo config.plist so that everything works smoothly" />
+      <item value="So how do make your own repo so that everything works smoothly" />
+      <item value="So how do you make your own repo so that everything works smoothly" />
       <item value="перенес последние изминения в дочерней теме из" />
       <item value="What kind of repo with custom config" />
       <item value="Ошибочный" />
@@ -48,19 +51,16 @@
       <item value="Closed repo with a mine personal config" />
       <item value="only for me" />
       <item value="only for my" />
-      <item value="The main repository with files in EFI here" />
-      <item value="The main repository with files EFI here" />
-      <item value="Open repo with script for automatic delivery of EFI to disk" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="363" />
+        <entry key="ENGLISH" value="366" />
         <entry key="BULGARIAN" value="2" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="364" />
+        <entry key="RUSSIAN" value="366" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

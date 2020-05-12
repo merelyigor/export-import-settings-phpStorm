@@ -225,7 +225,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="comment" value="/**&#10; * функция ла ла ла&#10; *&#10; * @param array $param = что за параметр&#10; * @param string $param = что за параметр&#10; *&#10; * @return string $return = что возращает?&#10; */" toReformat="false" toShortenFQNames="true">
+  <template name="comment" value="/**&#10; * функция ла ла ла&#10; *&#10; * @param array $param = что за параметр&#10; * @param string $param = что за параметр&#10; *&#10; * @return string $return = что возращает?&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>

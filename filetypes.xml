@@ -8,7 +8,9 @@
       <mapping pattern="._BOOT" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="wp" type="PLAIN_TEXT" />
+      <mapping pattern="dsdt-pached" type="PLAIN_TEXT" />
       <mapping pattern="origin" type="PLAIN_TEXT" />
+      <mapping pattern="dsdt-original" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrs" type="PLAIN_TEXT" />
       <mapping pattern="patch-teclast-dsdt" type="PLAIN_TEXT" />
       <mapping pattern="._Info.plist" type="PLAIN_TEXT" />

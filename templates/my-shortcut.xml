@@ -230,4 +230,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="get_current_url" value="# full URL of the current page&#10;global $wp;&#10;$current_url = home_url( add_query_arg( array(), $wp-&gt;request ) );&#10;&#10;# get only /SLUG/ pages&#10;global $wp;&#10;$current_slug = add_query_arg( array(), $wp-&gt;request );" description="get_current_url" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

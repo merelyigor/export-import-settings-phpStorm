@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Redirect to cart option" />
+      <item value="Redirect to the 'all' view if no plugins were found for the selected view context" />
+      <item value="Redirect to the 'all' view if no plugins were found for the selected view context." />
       <item value="CHECK" />
       <item value="from" />
       <item value="cut off" />
@@ -48,19 +51,16 @@
       <item value="Or your repository does not have the correct name" />
       <item value="Exit" />
       <item value="To retry" />
-      <item value="Retry" />
-      <item value="Mount the EFI partition of the drive or flash drive and try again" />
-      <item value="You do not have a mounted EFI partition" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="414" />
+        <entry key="ENGLISH" value="417" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="414" />
+        <entry key="RUSSIAN" value="417" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

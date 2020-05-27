@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="some thtruble" />
+      <item value="somethtruble" />
       <item value="Присвоение таксономий постам по списку csv файла + добавление таксономий если ее нет" />
       <item value="Power Resources for Wake" />
       <item value="Prepare To Sleep" />
@@ -49,18 +51,16 @@
       <item value="My Magical EFI child" />
       <item value="Me Egic" />
       <item value="permision" />
-      <item value="So how do make your own repo config.plist so that everything works smoothly" />
-      <item value="So how do make your own repo so that everything works smoothly" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="ENGLISH" value="411" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="410" />
+        <entry key="RUSSIAN" value="411" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

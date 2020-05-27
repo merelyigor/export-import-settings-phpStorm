@@ -236,4 +236,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="get_slug_by_url" value="function get_slug_by_url($url) # get &quot;slug&quot; from the full URL address&#10;{&#10;    preg_match('/\/([^\s]*)/', $url, $matches);&#10;    return str_replace('/', '', $matches[0]);&#10;}" description="get &quot;slug&quot; from the full URL address" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reindex elasticsearch functional admin panel" />
+      <item value="reindex elastic functional admin panel" />
       <item value="add title output filter with the addition of {s} at the end if there is no such character" />
       <item value="Redirect to cart option" />
       <item value="Redirect to the 'all' view if no plugins were found for the selected view context" />
@@ -49,18 +51,16 @@
       <item value="if you did everything strictly according to the instructions and checked then this error would not have happened" />
       <item value="So you don’t have an SSH key to access the repo or the link is wrong or your repo does not comply with the rules of this script" />
       <item value="You need to have an SSH key or another way to clone your repository" />
-      <item value="Or your repository does not have the correct name" />
-      <item value="Exit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="418" />
+        <entry key="ENGLISH" value="420" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="418" />
+        <entry key="RUSSIAN" value="420" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method for add CTA banner to single page" />
       <item value="a necessary" />
       <item value="necessary" />
       <item value="This is not a necessary thing." />
@@ -50,18 +51,17 @@
       <item value="успешно" />
       <item value="варянты" />
       <item value="Теперь введите в терминале" />
-      <item value="эти настройки по желанию" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="439" />
+        <entry key="ENGLISH" value="440" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="439" />
+        <entry key="RUSSIAN" value="440" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

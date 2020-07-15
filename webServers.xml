@@ -265,6 +265,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d3c779a0-f62b-4d34-abee-60769167b1b3" name="dev.samploon.com" url="http://167.233.6.168">
+        <fileTransfer host="167.233.6.168" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

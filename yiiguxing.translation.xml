@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="All Menus saved successfully" />
       <item value="Prevent duplicates" />
       <item value="start remove homeurl" />
       <item value="remove recent comments style" />
@@ -50,18 +51,17 @@
       <item value="Redirect to cart option" />
       <item value="Redirect to the 'all' view if no plugins were found for the selected view context" />
       <item value="Redirect to the 'all' view if no plugins were found for the selected view context." />
-      <item value="CHECK" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="460" />
+        <entry key="RUSSIAN" value="461" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

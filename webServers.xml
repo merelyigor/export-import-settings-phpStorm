@@ -273,6 +273,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="881c11e7-812a-4687-93b4-9f87c129b77d" name="lawaspect-com.prokit.me" url="http://159.69.237.151">
+        <fileTransfer host="159.69.237.151" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

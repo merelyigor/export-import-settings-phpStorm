@@ -248,4 +248,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="cropstr" value="function crop_text_by_chars($string = '', $start = 0, $max_value = 130)&#10;{&#10;    $string = strip_tags($string);&#10;    $string = substr($string, $start, $max_value);&#10;    $string = rtrim($string, &quot;!,.-&quot;);&#10;    $string = substr($string, $start, strrpos($string, ' '));&#10;    return $string;&#10;}" description="Обрезать строку по символам не нарушая целосности слов" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

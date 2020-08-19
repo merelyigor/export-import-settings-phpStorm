@@ -52,26 +52,6 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="func" value="function anything($args){&#10;&#10;}" description="function anything(){  };" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="Bash" value="false" />
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
-      <option name="ECMAScript6" value="false" />
-      <option name="HAML" value="false" />
-      <option name="Handlebars" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="REQUEST" value="false" />
-      <option name="SHELL_SCRIPT" value="false" />
-      <option name="SQL" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="Vue" value="false" />
-      <option name="XML" value="false" />
-    </context>
-  </template>
   <template name="onclick" value="$(&quot;#anything&quot;).on('click', function(){&#10;&#10;});" description="JQuery - on 'click', function()" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
@@ -93,7 +73,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="!doc" value="$(document).ready(function () {&#10;    &#10;});" description="$(document).ready(function () {  });" toReformat="false" toShortenFQNames="true">
+  <template name="!doc" value="$(document).ready(function () {&#10;    &#10;});" description="Жеквери документ еди" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ECMAScript6" value="true" />
       <option name="HTML" value="true" />
@@ -149,20 +129,6 @@
       <option name="Twig" value="true" />
     </context>
   </template>
-  <template name="&lt;&gt;=f" value="&lt;?php foreach ($array as $key =&gt; $item) { ?&gt;&#10;    &lt;?= dd($item); ?&gt;&#10;&lt;?php } ?&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
-      <option name="Twig" value="true" />
-    </context>
-  </template>
-  <template name="foreach" value="&lt;?php &#10;foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} &#10;?&gt;" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
-      <option name="Twig" value="true" />
-    </context>
-  </template>
   <template name="fore" value="foreach ($array as $key =&gt; $item) { &#10;    dd($item);&#10;} " description="foreach func php" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
@@ -189,7 +155,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="ddinit" value="function dd($var_dump,$html=false,$die=false){echo'&lt;pre style=&quot;color:#850085;z-index:999999999!important;position:relative;background: chartreuse;&quot;&gt;';if($html)var_dump(htmlspecialchars($var_dump,ENT_QUOTES));else var_dump($var_dump);echo'&lt;/pre&gt;';if($die){wp_die();}}" description="" toReformat="false" toShortenFQNames="true">
+  <template name="ddinit" value="function dd($var_dump,$html=false,$die=false){echo'&lt;pre style=&quot;color:#850085;z-index:999999999!important;position:relative;background: chartreuse;&quot;&gt;';if($html)var_dump(htmlspecialchars($var_dump,ENT_QUOTES));else var_dump($var_dump);echo'&lt;/pre&gt;';if($die){wp_die();}}" description="инициализация vardump" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />
@@ -225,7 +191,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="comment" value="/**&#10; * функция ла ла ла&#10; *&#10; * @param array $param = что за параметр&#10; * @param string $param = что за параметр&#10; *&#10; * @return string $return = что возращает?&#10; */" description="" toReformat="false" toShortenFQNames="true">
+  <template name="comment" value="/**&#10; * функция ла ла ла&#10; *&#10; * @param array $param = что за параметр&#10; * @param string $param = что за параметр&#10; *&#10; * @uses lalala_func()&#10; *&#10; * @return string $return = что возращает?&#10; */" description="PHP комментарий" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>

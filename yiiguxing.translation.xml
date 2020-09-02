@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="entry" />
       <item value="This plugin serves as a temporary solution, enabling the migration script for your site to give your plugin and theme authors some more time to update, and test, their code." />
       <item value="With the update to WordPress 5.5, a migration tool known as `jquery-migrate` will no longer be enabled by default. This may lead to unexpected behaviors in some themes or plugins who run older code." />
       <item value="main loop posts" />
@@ -50,18 +51,17 @@
       <item value="if" />
       <item value="entire memcached server, affecting all sites" />
       <item value="Do not use the memcached flush method. It acts on an" />
-      <item value="mixed The current function simply returns the" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="468" />
+        <entry key="RUSSIAN" value="469" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

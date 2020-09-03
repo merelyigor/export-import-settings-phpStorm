@@ -297,6 +297,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="f2b7406e-c0f2-4ed6-a881-d9814fb5ad5c" name="myhedgewallet" url="http://user1708.ftp.tools">
+        <fileTransfer host="user1708.ftp.tools" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

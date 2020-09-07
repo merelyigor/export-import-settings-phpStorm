@@ -220,4 +220,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="translate" value="/**&#10; * text translation function via google translation&#10; * ---------------------------------------------------------------------------------------------------------------------&#10; */&#10;function google_translate($text, $lang_input, $lang_uotput)&#10;{&#10;    $query_data = array(&#10;        'client' =&gt; 'x',&#10;        'q' =&gt; $text,&#10;        'sl' =&gt; $lang_input,&#10;        'tl' =&gt; $lang_uotput&#10;    );&#10;    $filename = 'http://translate.google.ru/translate_a/t';&#10;    $options = array(&#10;        'http' =&gt; array(&#10;            'user_agent' =&gt; 'Mozilla/5.0 (Windows NT 6.0; rv:26.0) Gecko/20100101 Firefox/26.0',&#10;            'method' =&gt; 'POST',&#10;            'header' =&gt; 'Content-type: application/x-www-form-urlencoded',&#10;            'content' =&gt; http_build_query($query_data)&#10;        )&#10;    );&#10;    $context = stream_context_create($options);&#10;    $response = file_get_contents($filename, false, $context);&#10;    return json_decode($response);&#10;}" description="Переводчик текста через Гугл переводчик Google Translation" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

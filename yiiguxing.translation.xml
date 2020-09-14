@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nesting levels for added taxonomies" />
+      <item value="Adding new categories with nesting levels + taxonomy type" />
+      <item value="recording logic (id_post, title, content) to the table with the title name -&gt; $table_name" />
       <item value="Please check your username and password and try again" />
       <item value="entry" />
       <item value="This plugin serves as a temporary solution, enabling the migration script for your site to give your plugin and theme authors some more time to update, and test, their code." />
@@ -48,20 +51,17 @@
       <item value="This caption is for the first row of the repeater" />
       <item value="else" />
       <item value="echo" />
-      <item value="empty" />
-      <item value="if" />
-      <item value="entire memcached server, affecting all sites" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="ENGLISH" value="473" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="470" />
+        <entry key="RUSSIAN" value="473" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

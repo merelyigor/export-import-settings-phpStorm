@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="excludes from the array of categories - categories of the current post by its id" />
       <item value="content block with magnifying glass" />
       <item value="Configure emails to send reports about broken slots" />
       <item value="deleted bashtemp folder if present" />
@@ -29,7 +30,6 @@
       <item value="middle" />
       <item value="зависимости" />
       <item value="deprecated" />
-      <item value="excludes from the array of categories - categories of the current post by its id" />
       <item value="Miscellaneous Advanced Features on the page of one post" />
       <item value="underline" />
       <item value="pointer" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="ENGLISH" value="481" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />

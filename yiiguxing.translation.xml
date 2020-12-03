@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is worth it" />
       <item value="successfully assigned a post or page with an ID" />
       <item value="Description: Wordfence Security - Anti-virus, Firewall and Malware Scan" />
       <item value="Malware" />
@@ -50,18 +51,17 @@
       <item value="update plugins on the side" />
       <item value="Action for send banners to front" />
       <item value="Method for add CTA banner to single page" />
-      <item value="a necessary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="490" />
+        <entry key="ENGLISH" value="491" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="486" />
+        <entry key="RUSSIAN" value="487" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

@@ -313,6 +313,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2f744320-9b74-47f3-b5d8-2469cd91cf62" name="snhfgov.ch" url="http://208.109.41.243">
+        <fileTransfer host="208.109.41.243" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

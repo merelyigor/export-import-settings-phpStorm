@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="исправил каноникал с неправильной ссылкой" />
       <item value="description successfully assigned a post or page with an ID" />
       <item value="hid" />
       <item value="Use our free examples to write an essay by yourself" />
@@ -50,7 +51,6 @@
       <item value="// Find the parent of category &amp; print child links of this" />
       <item value="middle" />
       <item value="зависимости" />
-      <item value="deprecated" />
     </histories>
     <option name="languageScores">
       <map>

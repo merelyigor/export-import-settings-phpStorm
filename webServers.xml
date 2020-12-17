@@ -329,6 +329,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="e16cf4e0-fa46-4b5c-9b88-30144dc64f44" name="essayservicescanner.com" url="http://148.251.51.4">
+        <fileTransfer host="148.251.51.4" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

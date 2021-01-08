@@ -10,6 +10,7 @@
       <mapping pattern="wp" type="PLAIN_TEXT" />
       <mapping pattern="breadcrumb" type="PLAIN_TEXT" />
       <mapping pattern="dsdt-pached" type="PLAIN_TEXT" />
+      <mapping pattern="parser" type="PLAIN_TEXT" />
       <mapping pattern="origin" type="PLAIN_TEXT" />
       <mapping pattern="dsdt-original" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrs" type="PLAIN_TEXT" />

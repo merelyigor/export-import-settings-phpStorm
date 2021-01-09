@@ -12,6 +12,7 @@
       <mapping pattern="dsdt-pached" type="PLAIN_TEXT" />
       <mapping pattern="parser" type="PLAIN_TEXT" />
       <mapping pattern="origin" type="PLAIN_TEXT" />
+      <mapping pattern="qweqweqweqweqweqeqeqeqeqweqwe" type="PLAIN_TEXT" />
       <mapping pattern="dsdt-original" type="PLAIN_TEXT" />
       <mapping pattern=".bowerrs" type="PLAIN_TEXT" />
       <mapping pattern="patch-teclast-dsdt" type="PLAIN_TEXT" />

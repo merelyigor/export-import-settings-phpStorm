@@ -4,6 +4,7 @@
       <mapping ext="dsl" type="C++" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".keepme" type="PLAIN_TEXT" />
       <mapping pattern="wp_config_loc_edureviewer" type="PLAIN_TEXT" />
       <mapping pattern="._BOOT" type="PLAIN_TEXT" />
       <mapping pattern="console" type="PLAIN_TEXT" />

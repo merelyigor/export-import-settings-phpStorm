@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="much time is left" />
       <item value="pages be parsed txt" />
       <item value="pages were parsed" />
       <item value="выполненные" />
@@ -50,18 +51,17 @@
       <item value="deleted bashtemp folder if present" />
       <item value="adding post_id is not a number or equal to 0" />
       <item value="nesting levels for added taxonomies" />
-      <item value="Adding new categories with nesting levels + taxonomy type" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="523" />
+        <entry key="ENGLISH" value="524" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="519" />
+        <entry key="RUSSIAN" value="520" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

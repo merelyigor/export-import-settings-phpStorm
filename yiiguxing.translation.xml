@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cannot be extracted via extract()" />
       <item value="if you don't have Homebrew on MacOS installed visit url" />
       <item value="installation via Homebrew WP-CLI globally (MacOS checked) (Linux not checked)" />
       <item value="Check if the torus is worth" />
@@ -50,18 +51,17 @@
       <item value="функционал" />
       <item value="content block with magnifying glass" />
       <item value="Adds an endpoint, like /trackback/." />
-      <item value="excludes from the array of categories - categories of the current post by its id" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="ENGLISH" value="532" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="527" />
+        <entry key="RUSSIAN" value="528" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

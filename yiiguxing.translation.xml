@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="modifide" />
+      <item value="get" />
+      <item value="result" />
       <item value="cannot be extracted via extract()" />
       <item value="if you don't have Homebrew on MacOS installed visit url" />
       <item value="installation via Homebrew WP-CLI globally (MacOS checked) (Linux not checked)" />
@@ -48,20 +51,17 @@
       <item value="Task function must be specified" />
       <item value="specified" />
       <item value="хуй" />
-      <item value="функционал" />
-      <item value="content block with magnifying glass" />
-      <item value="Adds an endpoint, like /trackback/." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="532" />
+        <entry key="ENGLISH" value="534" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="528" />
+        <entry key="RUSSIAN" value="531" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />
@@ -70,7 +70,7 @@
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="1" />
-        <entry key="ITALIAN" value="1" />
+        <entry key="ITALIAN" value="2" />
       </map>
     </option>
   </component>

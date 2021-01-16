@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="system. If not set or false only the memory used by" />
+      <item value="Set this to true to get the real size of memory allocated from" />
+      <item value="Returns the peak of memory allocated by PHP" />
       <item value="exist" />
       <item value="movie" />
       <item value="$return arr" />
@@ -48,20 +51,17 @@
       <item value="to get better result in short time" />
       <item value="Hire professional writer" />
       <item value="spied here" />
-      <item value="This code is not used as it is implemented through the admin panel" />
-      <item value="if you don't have Homebrew of MacOS installed visit url" />
-      <item value="installation via Homebrew WP-CLI globally" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="ENGLISH" value="547" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="541" />
+        <entry key="RUSSIAN" value="544" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

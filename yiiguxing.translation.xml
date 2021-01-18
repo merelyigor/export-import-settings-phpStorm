@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Paste thumbnail into post" />
+      <item value="Вставить" />
+      <item value="Insert" />
       <item value="Your Functions Below" />
       <item value="серия" />
       <item value="system. If not set or false only the memory used by" />
@@ -48,20 +51,17 @@
       <item value="Everything about canonical links, etc" />
       <item value="исправил каноникал с неправильной ссылкой" />
       <item value="description successfully assigned a post or page with an ID" />
-      <item value="hid" />
-      <item value="Use our free examples to write an essay by yourself" />
-      <item value="to get better result in short time" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="ENGLISH" value="550" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="545" />
+        <entry key="RUSSIAN" value="549" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

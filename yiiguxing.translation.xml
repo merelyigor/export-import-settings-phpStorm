@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Removes the language filter (and remove inactive languages) for the taxonomy sitemaps" />
       <item value="Deactivates the sitemap for inactive languages when using subdomains or multiple domains" />
+      <item value="Removes the language filter (and remove inactive languages) for the taxonomy sitemaps" />
       <item value="Add filters before the sitemap is evaluated and outputed" />
       <item value="because WPSEO does not accept several domains or subdomains in one sitemap" />
       <item value="one sitemap per language when using multiple domains or subdomains" />
@@ -55,13 +55,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="ENGLISH" value="559" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="557" />
+        <entry key="RUSSIAN" value="558" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

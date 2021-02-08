@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Generate a permalink for a taxonomy term archive" />
+      <item value="Returns the url of the translation ( if exists ) of the current page" />
       <item value="Below" />
       <item value="секция" />
       <item value="Alter the timestamp of a DateTime object by incrementing or decrementing" />
@@ -49,19 +51,17 @@
       <item value="main function of starting and working with csv" />
       <item value="helper functional and class" />
       <item value="input file not found ERROR !!! does not exist on the path argument(1)" />
-      <item value="I form an array from a csv file" />
-      <item value="true to make the script work and false to disable the script" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="ENGLISH" value="564" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="562" />
+        <entry key="RUSSIAN" value="564" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

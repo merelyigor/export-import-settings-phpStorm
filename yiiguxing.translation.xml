@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="пятно" />
       <item value="Generate a permalink for a taxonomy term archive" />
       <item value="Returns the url of the translation ( if exists ) of the current page" />
       <item value="Below" />
@@ -50,7 +51,6 @@
       <item value="paths to links slug for the parser" />
       <item value="main function of starting and working with csv" />
       <item value="helper functional and class" />
-      <item value="input file not found ERROR !!! does not exist on the path argument(1)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="564" />
+        <entry key="RUSSIAN" value="565" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CORSICAN" value="1" />

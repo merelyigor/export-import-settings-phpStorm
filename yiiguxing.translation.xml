@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ужал статичные картинки" />
       <item value="work" />
       <item value="fix not my bugs" />
       <item value="The script completed successfully - the end of the logging of this script execution" />
@@ -50,7 +51,6 @@
       <item value="much time is left" />
       <item value="pages be parsed txt" />
       <item value="pages were parsed" />
-      <item value="выполненные" />
     </histories>
     <option name="languageScores">
       <map>

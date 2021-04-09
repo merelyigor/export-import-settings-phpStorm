@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parses JSON response into native JavaScript objects" />
       <item value="no-cors, *cors, same-origin" />
       <item value="Default options are marked with *" />
-      <item value="parses JSON response into native JavaScript objects" />
       <item value="подсчет кликов юзерами по купонам и пересчет сортировки купонов в зависимости от кликов за сутки" />
       <item value="Inline script printed out in the footer" />
       <item value="ужал статичные картинки" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="572" />
+        <entry key="ENGLISH" value="573" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />

@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trying to access array offset on value of type bool" />
       <item value="change selector to a lighter version with .js- prefix" />
       <item value="Add action 'wcp-ut/after-body' for generating noscript tag" />
       <item value="after" />
@@ -50,18 +51,17 @@
       <item value="modifide" />
       <item value="get" />
       <item value="result" />
-      <item value="cannot be extracted via extract()" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="576" />
+        <entry key="RUSSIAN" value="577" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

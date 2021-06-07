@@ -345,6 +345,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="8d8191f4-c460-4d80-b915-435850af682d" name="pontst.com" url="http://64.225.65.19">
+        <fileTransfer host="64.225.65.19" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

@@ -353,6 +353,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="2c333b7b-124c-40e1-98d8-db481965ed55" name="bonusfun.info" url="http://167.172.38.176">
+        <fileTransfer host="167.172.38.176" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

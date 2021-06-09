@@ -225,10 +225,21 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="hotjar" value="&lt;script&gt;&#10;    window.hotjarStatus = false;&#10;    window.onscroll = function () {&#10;        startHotjar()&#10;    };&#10;    document.addEventListener(&quot;DOMContentLoaded&quot;, function (event) {&#10;        document.onmousemove = function (e) {&#10;            startHotjar()&#10;        }&#10;    });&#10;&#10;&#10;    function startHotjar() {&#10;        console.log('hotjarStatus', window.hotjarStatus);&#10;        if (window.hotjarStatus == true) return;&#10;&#10;        (function (h, o, t, j, a, r) {&#10;            h.hj = h.hj || function () {&#10;                (h.hj.q = h.hj.q || []).push(arguments)&#10;            };&#10;            h._hjSettings = {hjid: 263381, hjsv: 5};&#10;            a = o.getElementsByTagName('head')[0];&#10;            r = o.createElement('script');&#10;            r.async = 1;&#10;            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;&#10;            a.appendChild(r);&#10;        })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');&#10;        window.hotjarStatus = true;&#10;    }&#10;&lt;/script&gt;&#10;" description="Подключение загрузки js скрипта после скрола или движения мышкой" toReformat="false" toShortenFQNames="true">
+  <template name="hotjarload" value="&lt;script&gt;&#10;    window.hotjarStatus = false;&#10;    window.onscroll = function () {&#10;        startHotjar()&#10;    };&#10;    document.addEventListener(&quot;DOMContentLoaded&quot;, function (event) {&#10;        document.onmousemove = function (e) {&#10;            startHotjar()&#10;        }&#10;    });&#10;&#10;&#10;    function startHotjar() {&#10;        console.log('hotjarStatus', window.hotjarStatus);&#10;        if (window.hotjarStatus == true) return;&#10;&#10;        (function (h, o, t, j, a, r) {&#10;            h.hj = h.hj || function () {&#10;                (h.hj.q = h.hj.q || []).push(arguments)&#10;            };&#10;            h._hjSettings = {hjid: 263381, hjsv: 5};&#10;            a = o.getElementsByTagName('head')[0];&#10;            r = o.createElement('script');&#10;            r.async = 1;&#10;            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;&#10;            a.appendChild(r);&#10;        })(window, document, '//static.hotjar.com/c/hotjar-', '.js?sv=');&#10;        window.hotjarStatus = true;&#10;    }&#10;&lt;/script&gt;&#10;" description="Подключение загрузки js скрипта после скрола или движения мышкой" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="HTML" value="true" />
-      <option name="PHP" value="true" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="ECMAScript6" value="false" />
+      <option name="HAML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
     </context>
   </template>
 </templateSet>

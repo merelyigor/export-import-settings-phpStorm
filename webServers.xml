@@ -361,6 +361,22 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="14830652-c269-432f-9b31-506c529f1c8e" name="temp-test.eremenko.top" url="http://user1708.ftp.tools">
+        <fileTransfer host="user1708.ftp.tools" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="422b3563-67b5-487c-898e-a47b79d95f26" name="fortunecases.com" url="http://167.172.38.176">
+        <fileTransfer host="167.172.38.176" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

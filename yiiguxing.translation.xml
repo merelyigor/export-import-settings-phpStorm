@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="filter form handler" />
+      <item value="handler" />
       <item value="пункт" />
       <item value="sidebar arrow" />
       <item value="Denmark" />
@@ -49,8 +51,6 @@
       <item value="серия" />
       <item value="system. If not set or false only the memory used by" />
       <item value="Set this to true to get the real size of memory allocated from" />
-      <item value="Returns the peak of memory allocated by PHP" />
-      <item value="exist" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,14 +59,14 @@
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="1" />
+        <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="588" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />

@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="HACK: Replaces bonus column head with min deposit one for a while" />
+      <item value="HACK: Replaces bonus column with min deposit one for a while" />
       <item value="updated version to theme casino.kit 3.1.1" />
       <item value="updated version theme casino.kit" />
       <item value="update version theme casino.kit" />
@@ -49,19 +51,17 @@
       <item value="Filters sitemap queries to remove inactive language or to get" />
       <item value="space-evenly" />
       <item value="It is necessary to remove the line 'publicly_queryable' =&gt; false in the arguments for register_post_type above" />
-      <item value="Paste thumbnail into post" />
-      <item value="Вставить" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="592" />
+        <entry key="ENGLISH" value="594" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="592" />
+        <entry key="RUSSIAN" value="594" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -76,6 +76,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627317456100" />
+    <option name="lastTrimTime" value="1628007807680" />
   </component>
 </application>

@@ -242,4 +242,10 @@
       <option name="Vue" value="false" />
     </context>
   </template>
+  <template name="custom_slug_post_type" value="add_filter('register_post_type_args', function ($args, $post_type) {&#10;&#9;if ('casino' === $post_type) {&#10;&#9;&#9;$args['rewrite'] = ['slug' =&gt; 'casino'];&#10;&#9;}&#10;&#9;return $args;&#10;}, 99999999, 2);" description="кастомный слаг для кастомного типа записи" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>

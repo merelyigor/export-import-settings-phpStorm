@@ -55,13 +55,13 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="ENGLISH" value="607" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="606" />
+        <entry key="RUSSIAN" value="607" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -82,7 +82,10 @@
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="RUSSIAN" />
+        <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
+    <option name="phoneticFontFamily" value=".SFNS-Regular" />
+    <option name="primaryFontFamily" value=".SFNS-Regular" />
   </component>
 </application>

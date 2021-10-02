@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fatal error: Uncaught TypeError: mb_chr(): Argument 1 (codepoint) must be of type int, string given in" />
       <item value="matches" />
       <item value="пространство" />
       <item value="output the result unless you want to remove it" />
@@ -50,18 +51,17 @@
       <item value="parses JSON response into native JavaScript objects" />
       <item value="no-cors, *cors, same-origin" />
       <item value="Default options are marked with *" />
-      <item value="подсчет кликов юзерами по купонам и пересчет сортировки купонов в зависимости от кликов за сутки" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="612" />
+        <entry key="ENGLISH" value="613" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="612" />
+        <entry key="RUSSIAN" value="613" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

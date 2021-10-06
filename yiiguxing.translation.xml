@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Incorrect entry" />
+      <item value="DB_HOST string not found to wp-config.php file" />
+      <item value="в" />
       <item value="inputr" />
       <item value="YOU ARE NOT IN THE PROJECT FOLDER" />
       <item value="raise" />
@@ -48,20 +51,17 @@
       <item value="filter form handler" />
       <item value="handler" />
       <item value="пункт" />
-      <item value="sidebar arrow" />
-      <item value="Denmark" />
-      <item value="Netherlands" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="626" />
+        <entry key="ENGLISH" value="628" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="626" />
+        <entry key="RUSSIAN" value="628" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -76,7 +76,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633085358041" />
+    <option name="lastTrimTime" value="1633518806112" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">

@@ -1,12 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="and run the program again if the project already exists" />
+      <item value="and run the program inside the already raised project" />
+      <item value="Go to the folder of the already raised project with the name" />
+      <item value="Go to the project folder or any folder inside the project" />
       <item value="To raise a new project" />
       <item value="work now" />
       <item value="up now" />
-      <item value="Go to the project folder or any folder inside the project" />
       <item value="YOU ARE NOT IN THE PROJECT FOLDER" />
-      <item value="and run the program again if the project already exists" />
       <item value="To raise a new project." />
       <item value="Incorrect entry" />
       <item value="DB_HOST string not found to wp-config.php file" />
@@ -49,19 +51,17 @@
       <item value="updated version to theme casino.kit 3.1.1" />
       <item value="updated version theme casino.kit" />
       <item value="update version theme casino.kit" />
-      <item value="version update theme casino.kit" />
-      <item value="Adds the site root url when the default language code is not hidden" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="638" />
+        <entry key="ENGLISH" value="642" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="638" />
+        <entry key="RUSSIAN" value="642" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

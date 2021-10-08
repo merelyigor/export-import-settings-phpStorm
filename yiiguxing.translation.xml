@@ -1,7 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="To raise a new project" />
+      <item value="work now" />
+      <item value="up now" />
+      <item value="Go to the project folder or any folder inside the project" />
       <item value="YOU ARE NOT IN THE PROJECT FOLDER" />
+      <item value="and run the program again if the project already exists" />
       <item value="To raise a new project." />
       <item value="Incorrect entry" />
       <item value="DB_HOST string not found to wp-config.php file" />
@@ -9,10 +14,7 @@
       <item value="inputr" />
       <item value="raise" />
       <item value="To up a new project" />
-      <item value="To raise a new project" />
       <item value="or quit the program with keyboard shortcuts" />
-      <item value="Go to the project folder or any folder inside the project" />
-      <item value="and run the program again if the project already exists" />
       <item value="░░░ In order to change the folder, exit the program and change the folder in the terminal," />
       <item value="Склонируйте и перейдите в папку проекта" />
       <item value="docker rm unnecessary containers" />
@@ -49,19 +51,17 @@
       <item value="update version theme casino.kit" />
       <item value="version update theme casino.kit" />
       <item value="Adds the site root url when the default language code is not hidden" />
-      <item value="filter form handler" />
-      <item value="handler" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="ENGLISH" value="638" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="630" />
+        <entry key="RUSSIAN" value="638" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

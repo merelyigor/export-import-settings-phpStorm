@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Что то не так с файлом wp-config или данными для подключения к БД текущего проекта" />
+      <item value="occured" />
+      <item value="Выберете IP базы данных ниже" />
+      <item value="Select the IP down" />
+      <item value="Select the IP of down" />
+      <item value="Select the IP of the DB-DEV" />
       <item value="below" />
       <item value="minimaze" />
       <item value="Set a callable that will be used to report dump information" />
@@ -45,23 +51,17 @@
       <item value="get the arguments of the already-registered taxonomy" />
       <item value="Repeater pattern parts" />
       <item value="excerpt" />
-      <item value="empty or not isset" />
-      <item value="для отличия страниц пагинации" />
-      <item value="preview-js" />
-      <item value="filters" />
-      <item value="query parameters are empty, no filters parameters are selected" />
-      <item value="Dequeues" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="646" />
+        <entry key="ENGLISH" value="650" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="647" />
+        <entry key="RUSSIAN" value="651" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

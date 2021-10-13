@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="don't break compatibility with old trigger" />
       <item value="Exporting tables one by one" />
       <item value="This check will be removed once include-tables supports regexps" />
       <item value="The export process may take some time, depending on the size of the database" />
@@ -50,18 +51,17 @@
       <item value="re-register the taxonomy" />
       <item value="again, note that it's an object" />
       <item value="in this example there are three changes" />
-      <item value="make changes to the args" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="653" />
+        <entry key="RUSSIAN" value="654" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

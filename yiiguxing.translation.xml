@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Exporting tables one by one" />
+      <item value="This check will be removed once include-tables supports regexps" />
+      <item value="The export process may take some time, depending on the size of the database" />
       <item value="Что то не так с файлом wp-config или данными для подключения к БД текущего проекта" />
       <item value="occured" />
       <item value="Выберете IP базы данных ниже" />
@@ -48,20 +51,17 @@
       <item value="again, note that it's an object" />
       <item value="in this example there are three changes" />
       <item value="make changes to the args" />
-      <item value="get the arguments of the already-registered taxonomy" />
-      <item value="Repeater pattern parts" />
-      <item value="excerpt" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="650" />
+        <entry key="ENGLISH" value="653" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="651" />
+        <entry key="RUSSIAN" value="653" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

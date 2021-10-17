@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="envoriment" />
       <item value="Upload the project database from the dev environment to the localhost" />
       <item value="an error occured and a dump file" />
       <item value="Database imported successfully and is on the way" />
@@ -50,7 +51,6 @@
       <item value="To up a new project" />
       <item value="or quit the program with keyboard shortcuts" />
       <item value="░░░ In order to change the folder, exit the program and change the folder in the terminal," />
-      <item value="Склонируйте и перейдите в папку проекта" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,7 +61,8 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="671" />
+        <entry key="RUSSIAN" value="672" />
+        <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />

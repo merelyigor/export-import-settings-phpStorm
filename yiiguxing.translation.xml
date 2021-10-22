@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Upload" />
+      <item value="Import" />
       <item value="Shutdown" />
       <item value="Exports all the tables selected from database" />
       <item value="frozen" />
@@ -52,19 +54,17 @@
       <item value="This check will be removed once include-tables supports regexps" />
       <item value="The export process may take some time, depending on the size of the database" />
       <item value="Что то не так с файлом wp-config или данными для подключения к БД текущего проекта" />
-      <item value="occured" />
-      <item value="Выберете IP базы данных ниже" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="697" />
+        <entry key="ENGLISH" value="699" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="697" />
+        <entry key="RUSSIAN" value="699" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

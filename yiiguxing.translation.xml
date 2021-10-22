@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="переделать доступ по токену репозитория и убрать личный токен" />
       <item value="Upload" />
       <item value="Import" />
       <item value="Shutdown" />
@@ -53,7 +54,6 @@
       <item value="Exporting tables one by one" />
       <item value="This check will be removed once include-tables supports regexps" />
       <item value="The export process may take some time, depending on the size of the database" />
-      <item value="Что то не так с файлом wp-config или данными для подключения к БД текущего проекта" />
     </histories>
     <option name="languageScores">
       <map>

@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Successfully processed rows count" />
+      <item value="Count Row" />
+      <item value="Rows Count" />
       <item value="Table rows extractor, close locks and commits after dump" />
       <item value="Commit to enable autocommit" />
       <item value="Cannot access offset of type string on string in" />
@@ -51,20 +54,17 @@
       <item value="Temporary variable, used to store current query" />
       <item value="dump the database to plain text file" />
       <item value="Enum with all available compression methods" />
-      <item value="mysql mysqldump pdo php7 php5 database php sql hhvm mariadb mysql-backup" />
-      <item value="PHP version of mysqldump cli that comes with MySQL" />
-      <item value="Write some stats to output file" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="704" />
+        <entry key="ENGLISH" value="708" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="704" />
+        <entry key="RUSSIAN" value="708" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

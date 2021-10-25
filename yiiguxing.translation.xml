@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="media-breakpoint-down" />
       <item value="If set to true, the constant will be defined case-insensitive" />
       <item value="The previous error message" />
       <item value="Successfully processed rows count" />
@@ -53,18 +54,17 @@
       <item value="Something is wrong with the wp-config file or the data" />
       <item value="The import process may take some time, depending on the size of the database" />
       <item value="tables" />
-      <item value="Temporary variable, used to store current query" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="710" />
+        <entry key="ENGLISH" value="711" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="710" />
+        <entry key="RUSSIAN" value="711" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

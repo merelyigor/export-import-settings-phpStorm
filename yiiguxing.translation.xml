@@ -83,12 +83,15 @@
     <option name="lastTrimTime" value="1635367794326" />
   </component>
   <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="RUSSIAN" />
       </google-translate>
     </option>
+    <option name="keepFormat" value="true" />
     <option name="phoneticFontFamily" value=".SFNS-Regular" />
     <option name="primaryFontFamily" value=".SFNS-Regular" />
+    <option name="showReplacementActionInContextMenu" value="true" />
   </component>
 </application>

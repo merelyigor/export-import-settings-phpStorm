@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="redo access by repository token and remove personal token" />
       <item value="TODO redo access by repository token and remove personal token" />
       <item value="Программа была успешно обновлена до версии" />
       <item value="An error occurred while deleting limits" />
@@ -53,18 +54,17 @@
       <item value="Upload the project database from the dev environment to the localhost" />
       <item value="an error occured and a dump file" />
       <item value="Database imported successfully and is on the way" />
-      <item value="Success. Database exported successfully and is on the way" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="716" />
+        <entry key="ENGLISH" value="717" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="716" />
+        <entry key="RUSSIAN" value="717" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635367794326" />
+    <option name="lastTrimTime" value="1635890319730" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />

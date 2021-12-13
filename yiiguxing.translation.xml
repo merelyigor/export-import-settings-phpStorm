@@ -1,70 +1,71 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="1115" />
-    <option name="newTranslationDialogY" value="639" />
+    <option name="newTranslationDialogX" value="675" />
+    <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Add published and modified date fields to all public taxonomies" />
-      <item value="Checking different between all existed headings with excluded" />
-      <item value="Pass value for table-of-contents" />
-      <item value="if fatal error is in OB - ob_end_clean() and displays error&#10;&#9;  In other case integrated error handler will handle the error" />
-      <item value="Handlers fatal error" />
-      <item value="the password you entered is empty or entered incorrectly" />
-      <item value="Specific styles for current project" />
-      <item value="Inject T&amp;C's Apply button after table card title on home page" />
-      <item value="descktop" />
-      <item value="Class name for the action's callback" />
-      <item value="add hooks and filters" />
-      <item value="move configurations source into a separate class" />
-      <item value="September" />
-      <item value="May" />
-      <item value="software bonus" />
-      <item value="Add days and times in which the bonus will be valid every month" />
-      <item value="Добавьте дни и время в которые будет действовать бонус каждую неделю" />
-      <item value="monthly" />
-      <item value="weekly" />
-      <item value="Once a month" />
-      <item value="What is the frequency of the bonus" />
-      <item value="datum" />
-      <item value="percentage" />
-      <item value="payment systems are prohibited" />
-      <item value="capability type" />
-      <item value="subdomain" />
-      <item value="ACME-challenge" />
-      <item value="MYSQL ALLOW EMPTY PASSWORD" />
-      <item value="on-failure" />
-      <item value="run location" />
-      <item value="launch" />
-      <item value="Made by Merelyigor" />
-      <item value="Absolute path to the WordPress directory" />
-      <item value="разрешенные ip" />
-      <item value="idiot" />
-      <item value="moron" />
-      <item value="Success auth" />
-      <item value="Authenticate required" />
-      <item value="production" />
-      <item value="prodaction" />
-      <item value="--force-recreate" />
-      <item value="Set to 1 if you're testing your setup to avoid hitting request limits" />
-      <item value="Adding a valid address is strongly recommended" />
-      <item value="That's all, stop editing! Happy blogging" />
-      <item value="The type of runner that the job will run on" />
-      <item value="an advanced webserver" />
-      <item value="This is so the passwords show up in logs" />
-      <item value="Let the conatiner know that there is no tty" />
-      <item value="KEITARO JS SCRIPT SHORTCODE TAG NAME" />
-      <item value="method" />
+      <item value="replace splash" />
+      <item value="Next, you need to enter your gicker.co account password" />
+      <item value="Below you need to specify the login (not mail) of your gicker.co account and apply the input" />
+      <item value="allow" />
+      <item value="Load the Diffie-Hellman parameter" />
+      <item value="Diffie-Hellman" />
+      <item value="Enable staging mode if needed" />
+      <item value="Deleting dummy certificate for" />
+      <item value="redo access by repository token and remove personal token" />
+      <item value="TODO redo access by repository token and remove personal token" />
+      <item value="Программа была успешно обновлена до версии" />
+      <item value="An error occurred while deleting limits" />
+      <item value="there is no such index" />
+      <item value="Destroys the specified variables" />
+      <item value="You have successfully added limit for" />
+      <item value="media-breakpoint-down" />
+      <item value="If set to true, the constant will be defined case-insensitive" />
+      <item value="The previous error message" />
+      <item value="Successfully processed rows count" />
+      <item value="Count Row" />
+      <item value="Rows Count" />
+      <item value="Table rows extractor, close locks and commits after dump" />
+      <item value="Commit to enable autocommit" />
+      <item value="Cannot access offset of type string on string in" />
+      <item value="Communication link failure: 1153 Got a packet bigger than 'max_allowed_packet" />
+      <item value="bypass" />
+      <item value="переделать доступ по токену репозитория и убрать личный токен" />
+      <item value="Upload" />
+      <item value="Import" />
+      <item value="Shutdown" />
+      <item value="Exports all the tables selected from database" />
+      <item value="frozen" />
+      <item value="installation" />
+      <item value="instalation" />
+      <item value="Remove" />
+      <item value="Login Succeeded" />
+      <item value="Copying DEV database into LOCALHOST" />
+      <item value="Copying" />
+      <item value="Migration the project DEV database into LOCALHOST" />
+      <item value="depending on the size of the database" />
+      <item value="The process may take some time" />
+      <item value="С вашим локальным файлом дампа" />
+      <item value="into" />
+      <item value="Upload the project DEV database to the LOCALHOST" />
+      <item value="Export Database DEV dump to folder" />
+      <item value="Export Database dump to folder" />
+      <item value="в" />
+      <item value="of" />
+      <item value="dump bd of local" />
+      <item value="No i changed my mind" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="673" />
+        <entry key="ENGLISH" value="725" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
-        <entry key="GERMAN" value="5" />
-        <entry key="RUSSIAN" value="673" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="725" />
+        <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -79,9 +80,10 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639404983106" />
+    <option name="lastTrimTime" value="1638209844010" />
   </component>
   <component name="Settings">
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="RUSSIAN" />
@@ -91,6 +93,5 @@
     <option name="phoneticFontFamily" value=".SFNS-Regular" />
     <option name="primaryFontFamily" value=".SFNS-Regular" />
     <option name="showReplacementActionInContextMenu" value="true" />
-    <option name="takeWordWhenDialogOpens" value="true" />
   </component>
 </application>

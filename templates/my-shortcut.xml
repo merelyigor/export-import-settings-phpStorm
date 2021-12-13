@@ -242,7 +242,7 @@
       <option name="Vue" value="false" />
     </context>
   </template>
-  <template name="adduserwp" value="add_action('init', function () {&#10;&#9;$user = 'superadmin';&#10;&#9;$pass = '132435';&#10;&#9;$email = 'email@domain.com';&#10;&#9;if (!username_exists($user) &amp;&amp; !email_exists($email)) {&#10;&#9;&#9;$user_id = wp_create_user($user, $pass, $email);&#10;&#9;&#9;$user = new WP_User($user_id);&#10;&#9;&#9;$user-&gt;set_role('administrator');&#10;&#9;}&#10;});" description="add user admin to wordpress site" toReformat="false" toShortenFQNames="true">
+  <template name="custom_slug_post_type" value="add_filter('register_post_type_args', function ($args, $post_type) {&#10;&#9;if ('casino' === $post_type) {&#10;&#9;&#9;$args['rewrite'] = ['slug' =&gt; 'casino'];&#10;&#9;}&#10;&#9;return $args;&#10;}, 99999999, 2);" description="кастомный слаг для кастомного типа записи" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
       <option name="PHP" value="true" />

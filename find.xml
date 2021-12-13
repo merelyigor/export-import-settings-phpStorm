@@ -2,18 +2,22 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.php4</mask>
-    <mask>*.phtml</mask>
-    <mask>*.php5</mask>
+    <mask>*.inc</mask>
     <mask>*.ctp</mask>
+    <mask>*.php4</mask>
+    <mask>*.php5</mask>
+    <mask>*.phtml</mask>
     <mask>*.hphp</mask>
     <mask>*.module</mask>
-    <mask>*.inc</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>

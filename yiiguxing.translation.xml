@@ -1,72 +1,75 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="1115" />
+    <option name="newTranslationDialogY" value="639" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Denmark" />
-      <item value="Netherlands" />
-      <item value="United Kingdom" />
-      <item value="Belgium" />
-      <item value="Blank title in all fields" />
-      <item value="File for fun because it is not used anywhere" />
-      <item value="prod url as string here" />
-      <item value="frod url as string here" />
-      <item value="prod url as string here if prod url === this wordpress site copy : ge" />
-      <item value="Trying to access array offset on value of type bool" />
-      <item value="change selector to a lighter version with .js- prefix" />
-      <item value="Add action 'wcp-ut/after-body' for generating noscript tag" />
-      <item value="after" />
-      <item value="parses JSON response into native JavaScript objects" />
-      <item value="no-cors, *cors, same-origin" />
-      <item value="Default options are marked with *" />
-      <item value="подсчет кликов юзерами по купонам и пересчет сортировки купонов в зависимости от кликов за сутки" />
-      <item value="Inline script printed out in the footer" />
-      <item value="ужал статичные картинки" />
-      <item value="work" />
-      <item value="fix not my bugs" />
-      <item value="The script completed successfully - the end of the logging of this script execution" />
-      <item value="Finding and replacing links in the content blocks of the ACF constructor fields and the content of posts or pages" />
-      <item value="process iteration search db regexp" />
-      <item value="пятно" />
-      <item value="Generate a permalink for a taxonomy term archive" />
-      <item value="Returns the url of the translation ( if exists ) of the current page" />
-      <item value="Below" />
-      <item value="секция" />
-      <item value="Alter the timestamp of a DateTime object by incrementing or decrementing" />
-      <item value="Adds an amount of days, months, years, hours, minutes and seconds to a DateTime object" />
-      <item value="Deactivates the sitemap for inactive languages when using subdomains or multiple domains" />
-      <item value="Removes the language filter (and remove inactive languages) for the taxonomy sitemaps" />
-      <item value="Add filters before the sitemap is evaluated and outputed" />
-      <item value="because WPSEO does not accept several domains or subdomains in one sitemap" />
-      <item value="one sitemap per language when using multiple domains or subdomains" />
-      <item value="Filters sitemap queries to remove inactive language or to get" />
-      <item value="space-evenly" />
-      <item value="It is necessary to remove the line 'publicly_queryable' =&gt; false in the arguments for register_post_type above" />
-      <item value="Paste thumbnail into post" />
-      <item value="Вставить" />
-      <item value="Insert" />
-      <item value="Your Functions Below" />
-      <item value="серия" />
-      <item value="system. If not set or false only the memory used by" />
-      <item value="Set this to true to get the real size of memory allocated from" />
-      <item value="Returns the peak of memory allocated by PHP" />
-      <item value="exist" />
-      <item value="movie" />
-      <item value="$return arr" />
+      <item value="Add published and modified date fields to all public taxonomies" />
+      <item value="Checking different between all existed headings with excluded" />
+      <item value="Pass value for table-of-contents" />
+      <item value="if fatal error is in OB - ob_end_clean() and displays error&#10;&#9;  In other case integrated error handler will handle the error" />
+      <item value="Handlers fatal error" />
+      <item value="the password you entered is empty or entered incorrectly" />
+      <item value="Specific styles for current project" />
+      <item value="Inject T&amp;C's Apply button after table card title on home page" />
+      <item value="descktop" />
+      <item value="Class name for the action's callback" />
+      <item value="add hooks and filters" />
+      <item value="move configurations source into a separate class" />
+      <item value="September" />
+      <item value="May" />
+      <item value="software bonus" />
+      <item value="Add days and times in which the bonus will be valid every month" />
+      <item value="Добавьте дни и время в которые будет действовать бонус каждую неделю" />
+      <item value="monthly" />
+      <item value="weekly" />
+      <item value="Once a month" />
+      <item value="What is the frequency of the bonus" />
+      <item value="datum" />
+      <item value="percentage" />
+      <item value="payment systems are prohibited" />
+      <item value="capability type" />
+      <item value="subdomain" />
+      <item value="ACME-challenge" />
+      <item value="MYSQL ALLOW EMPTY PASSWORD" />
+      <item value="on-failure" />
+      <item value="run location" />
+      <item value="launch" />
+      <item value="Made by Merelyigor" />
+      <item value="Absolute path to the WordPress directory" />
+      <item value="разрешенные ip" />
+      <item value="idiot" />
+      <item value="moron" />
+      <item value="Success auth" />
+      <item value="Authenticate required" />
+      <item value="production" />
+      <item value="prodaction" />
+      <item value="--force-recreate" />
+      <item value="Set to 1 if you're testing your setup to avoid hitting request limits" />
+      <item value="Adding a valid address is strongly recommended" />
+      <item value="That's all, stop editing! Happy blogging" />
+      <item value="The type of runner that the job will run on" />
+      <item value="an advanced webserver" />
+      <item value="This is so the passwords show up in logs" />
+      <item value="Let the conatiner know that there is no tty" />
+      <item value="KEITARO JS SCRIPT SHORTCODE TAG NAME" />
+      <item value="method" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="586" />
+        <entry key="ENGLISH" value="673" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
-        <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="586" />
+        <entry key="DANISH" value="2" />
+        <entry key="GERMAN" value="5" />
+        <entry key="RUSSIAN" value="673" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />
@@ -75,12 +78,19 @@
       </map>
     </option>
   </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1639404983106" />
+  </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="primaryLanguage" value="RUSSIAN" />
       </google-translate>
     </option>
-    <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
+    <option name="phoneticFontFamily" value=".SFNS-Regular" />
+    <option name="primaryFontFamily" value=".SFNS-Regular" />
+    <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="takeWordWhenDialogOpens" value="true" />
   </component>
 </application>

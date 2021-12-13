@@ -1,37 +1,14 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="dsl" type="C++" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="wp_config_loc_edureviewer" type="PLAIN_TEXT" />
-      <mapping pattern="._BOOT" type="PLAIN_TEXT" />
-      <mapping pattern="console" type="PLAIN_TEXT" />
-      <mapping pattern="wp" type="PLAIN_TEXT" />
-      <mapping pattern=".keepme" type="PLAIN_TEXT" />
-      <mapping pattern="breadcrumb" type="PLAIN_TEXT" />
-      <mapping pattern="dsdt-pached" type="PLAIN_TEXT" />
-      <mapping pattern="parser" type="PLAIN_TEXT" />
-      <mapping pattern="origin" type="PLAIN_TEXT" />
-      <mapping pattern="qweqweqweqweqweqeqeqeqeqweqwe" type="PLAIN_TEXT" />
-      <mapping pattern="dsdt-original" type="PLAIN_TEXT" />
-      <mapping pattern=".bowerrs" type="PLAIN_TEXT" />
-      <mapping pattern="patch-teclast-dsdt" type="PLAIN_TEXT" />
-      <mapping pattern="._Info.plist" type="PLAIN_TEXT" />
-      <mapping ext="com" type="PLAIN_TEXT" />
-      <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping ext="kit" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
-      <mapping ext="com_wordpress:php" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="aml" type="TypeScript" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping pattern="html" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="conf" approved="true" type="SmartyConfig" />
+      <removed_mapping ext="nginx" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

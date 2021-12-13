@@ -1,0 +1,18 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="malldecor.uk" id="bbef6555-765b-43c9-9af9-6bf1e36311ee" port="21211" customName="cloudcommercepro" nameFormat="CUSTOM">
+        <option name="customName" value="cloudcommercepro" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="172.104.247.249" id="4b827a99-c7f0-44cf-9950-b4b652005c7c" port="22" customName="promprld-lendings" nameFormat="CUSTOM">
+        <option name="customName" value="promprld-lendings" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="88.99.244.123" id="ece5915c-2df0-43a0-b5de-78483112e22f" port="22" customName="ozziessays.com" nameFormat="CUSTOM" username="ozziessay_prod">
+        <option name="customName" value="ozziessays.com" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="148.251.51.4" id="9ebb5c73-f634-4a1e-b789-a18b338febdf" port="22" customName="essayservicescanner.com" nameFormat="CUSTOM" username="essayservicescanner_prod">
+        <option name="customName" value="essayservicescanner.com" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>

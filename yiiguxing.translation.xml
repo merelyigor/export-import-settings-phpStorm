@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Исправлена стилизация кода и несколько общих фиксов в теме" />
       <item value="Holds the required PHP version" />
       <item value="replace splash" />
       <item value="Next, you need to enter your gicker.co account password" />
@@ -53,7 +54,6 @@
       <item value="Export Database dump to folder" />
       <item value="в" />
       <item value="of" />
-      <item value="dump bd of local" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="726" />
+        <entry key="RUSSIAN" value="727" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

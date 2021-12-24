@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="media-breakpoint-down" />
       <item value="ветки" />
       <item value="Исправлена стилизация кода и несколько общих фиксов в теме" />
       <item value="Holds the required PHP version" />
@@ -22,7 +23,6 @@
       <item value="there is no such index" />
       <item value="Destroys the specified variables" />
       <item value="You have successfully added limit for" />
-      <item value="media-breakpoint-down" />
       <item value="If set to true, the constant will be defined case-insensitive" />
       <item value="The previous error message" />
       <item value="Successfully processed rows count" />
@@ -58,7 +58,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="727" />
+        <entry key="ENGLISH" value="728" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />

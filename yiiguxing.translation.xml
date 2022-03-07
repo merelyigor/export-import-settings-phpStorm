@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="война на украине" />
       <item value="ветки" />
       <item value="Исправлена стилизация кода и несколько общих фиксов в теме" />
       <item value="Holds the required PHP version" />
@@ -53,7 +54,6 @@
       <item value="Upload the project DEV database to the LOCALHOST" />
       <item value="Export Database DEV dump to folder" />
       <item value="Export Database dump to folder" />
-      <item value="в" />
     </histories>
     <option name="languageScores">
       <map>
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639416574463" />
+    <option name="lastTrimTime" value="1646666222603" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />

@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="init all work functions method" />
+      <item value="method" />
       <item value="are out of sync" />
       <item value="Your fields are out of sync ACF Json" />
       <item value="война на украине" />
@@ -52,19 +54,17 @@
       <item value="depending on the size of the database" />
       <item value="The process may take some time" />
       <item value="С вашим локальным файлом дампа" />
-      <item value="into" />
-      <item value="Upload the project DEV database to the LOCALHOST" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="730" />
+        <entry key="ENGLISH" value="732" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="730" />
+        <entry key="RUSSIAN" value="732" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

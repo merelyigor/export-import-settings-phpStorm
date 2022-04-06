@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="change selector to a lighter version with .js- prefix" />
       <item value="theme options according country" />
       <item value="Add special filter for geo depended tables from the" />
       <item value="Edit page" />
@@ -53,18 +54,17 @@
       <item value="Login Succeeded" />
       <item value="Copying DEV database into LOCALHOST" />
       <item value="Copying" />
-      <item value="Migration the project DEV database into LOCALHOST" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="735" />
+        <entry key="ENGLISH" value="736" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="735" />
+        <entry key="RUSSIAN" value="736" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -80,7 +80,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648564129257" />
+    <option name="lastTrimTime" value="1649248058019" />
   </component>
   <component name="Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />

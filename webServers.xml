@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="eff1b47d-f785-4e37-9ad3-e70f6eac4dfb" name="parsingtest.prokit.me" url="http://159.69.237.148">
+        <fileTransfer host="159.69.237.148" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

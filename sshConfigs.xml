@@ -13,6 +13,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="148.251.51.4" id="9ebb5c73-f634-4a1e-b789-a18b338febdf" port="22" customName="essayservicescanner.com" nameFormat="CUSTOM" username="essayservicescanner_prod">
         <option name="customName" value="essayservicescanner.com" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="159.69.237.148" id="c089e94c-7c35-4352-86c0-a9b14f7c4a8a" port="22" customName="parsingtest_prokit_me@159.69.237.148" nameFormat="CUSTOM" username="parsingtest_prokit_me" useOpenSSHConfig="true">
+        <option name="customName" value="parsingtest_prokit_me@159.69.237.148" />
+      </sshConfig>
     </configs>
   </component>
 </application>

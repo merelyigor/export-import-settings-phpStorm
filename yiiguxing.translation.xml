@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Filters a variable with a specified filter" />
       <item value="parses and outputs array data and key in rows" />
       <item value="fires when the plugin is deactivated from the admin panel" />
       <item value="fires when the plugin is activated from the admin panel" />
@@ -53,18 +54,17 @@
       <item value="Count Row" />
       <item value="Rows Count" />
       <item value="Table rows extractor, close locks and commits after dump" />
-      <item value="Commit to enable autocommit" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="751" />
+        <entry key="ENGLISH" value="752" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="751" />
+        <entry key="RUSSIAN" value="752" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

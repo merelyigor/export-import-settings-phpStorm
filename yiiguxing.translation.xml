@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="parses and outputs array data and key in rows" />
+      <item value="fires when the plugin is deactivated from the admin panel" />
+      <item value="fires when the plugin is activated from the admin panel" />
+      <item value="remove cron task to update google pool IP" />
+      <item value="удаление" />
       <item value="wp_option table" />
       <item value="request blocking method and blacklisting ip" />
       <item value="and simulating the return of a JavaScript on demand" />
@@ -49,22 +54,17 @@
       <item value="Rows Count" />
       <item value="Table rows extractor, close locks and commits after dump" />
       <item value="Commit to enable autocommit" />
-      <item value="Cannot access offset of type string on string in" />
-      <item value="Communication link failure: 1153 Got a packet bigger than 'max_allowed_packet" />
-      <item value="bypass" />
-      <item value="переделать доступ по токену репозитория и убрать личный токен" />
-      <item value="Upload" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="ENGLISH" value="751" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="747" />
+        <entry key="RUSSIAN" value="751" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="checking the number of requested URLs" />
+      <item value="checking the number of requests over time" />
+      <item value="the number of unique requests of the user's URL is checked" />
+      <item value="add checking passing time" />
+      <item value="add task cron elapsed time check" />
       <item value="set" />
       <item value="required" />
       <item value="обязательно" />
@@ -49,22 +54,17 @@
       <item value="are out of sync" />
       <item value="Your fields are out of sync ACF Json" />
       <item value="война на украине" />
-      <item value="ветки" />
-      <item value="Исправлена стилизация кода и несколько общих фиксов в теме" />
-      <item value="Holds the required PHP version" />
-      <item value="replace splash" />
-      <item value="Next, you need to enter your gicker.co account password" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="772" />
+        <entry key="ENGLISH" value="778" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="772" />
+        <entry key="RUSSIAN" value="778" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

@@ -4,6 +4,15 @@
     <option name="newTranslationDialogY" value="448" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set" />
+      <item value="required" />
+      <item value="обязательно" />
+      <item value="checks the number of requests for certain time intervals" />
+      <item value="requests count check" />
+      <item value="requests session check" />
+      <item value="clear array (URLs) of saved user requests" />
+      <item value="requests session array" />
+      <item value="array passed for parsing" />
       <item value="return the actual URL of the current request" />
       <item value="checking for a robot hitting a trap link" />
       <item value="user verification method and decision to block or load the site" />
@@ -45,26 +54,17 @@
       <item value="Holds the required PHP version" />
       <item value="replace splash" />
       <item value="Next, you need to enter your gicker.co account password" />
-      <item value="Below you need to specify the login (not mail) of your gicker.co account and apply the input" />
-      <item value="allow" />
-      <item value="Load the Diffie-Hellman parameter" />
-      <item value="Diffie-Hellman" />
-      <item value="Enable staging mode if needed" />
-      <item value="Deleting dummy certificate for" />
-      <item value="redo access by repository token and remove personal token" />
-      <item value="TODO redo access by repository token and remove personal token" />
-      <item value="Программа была успешно обновлена до версии" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="763" />
+        <entry key="ENGLISH" value="772" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="763" />
+        <entry key="RUSSIAN" value="772" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

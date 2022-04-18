@@ -248,7 +248,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="wpsuperadmin" value="&#10;$username = 'superadmin';&#10;$password = '132435';&#10;$email_address = 'superadmin@superadmin.com';&#10;if ( ! username_exists( $username ) ) {&#10;$user_id = wp_create_user( $username, $password, $email_address );&#10;$user = new WP_User( $user_id );&#10;$user-&gt;set_role( 'administrator' );" description="Добавить админа superadmin" toReformat="false" toShortenFQNames="true">
+  <template name="wpsuperadmin" value="&#10;$username = 'superadmin';&#10;$password = '132435';&#10;$email_address = 'superadmin@superadmin.com';&#10;if (!username_exists($username)) {&#10;&#9;$user_id = wp_create_user($username, $password, $email_address);&#10;&#9;$user = new WP_User($user_id);&#10;&#9;$user-&gt;set_role('administrator');&#10;}" description="Добавить админа superadmin" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP" value="true" />
     </context>

@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="Define path and URL to the ACF plugin" />
+      <item value="Including ACF within a plugin" />
       <item value="checking if user's ip is blacklisted" />
       <item value="checking if the user's ip is the blacklisted request" />
       <item value="checking if the user's ip is the current blacklisted request" />
@@ -51,19 +53,17 @@
       <item value="Filters a variable with a specified filter" />
       <item value="parses and outputs array data and key in rows" />
       <item value="fires when the plugin is deactivated from the admin panel" />
-      <item value="fires when the plugin is activated from the admin panel" />
-      <item value="remove cron task to update google pool IP" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="797" />
+        <entry key="ENGLISH" value="800" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="797" />
+        <entry key="RUSSIAN" value="800" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

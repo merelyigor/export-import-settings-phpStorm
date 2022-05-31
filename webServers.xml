@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="0f9f21b5-6d2f-45c5-85b2-e5a2b8a14265" name="mobilcasinoonline-norge.com" url="http://64.225.65.19">
+        <fileTransfer host="64.225.65.19" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="ломает билд в гикере" />
       <item value="wordpress update version up to 6.0.0 php version up to 7.4" />
       <item value="Update Save" />
       <item value="Guard Settings have been updated and saved, remember you configure at your own risk" />
@@ -52,7 +53,6 @@
       <item value="array passed for parsing" />
       <item value="return the actual URL of the current request" />
       <item value="checking for a robot hitting a trap link" />
-      <item value="user verification method and decision to block or load the site" />
     </histories>
     <option name="languageScores">
       <map>

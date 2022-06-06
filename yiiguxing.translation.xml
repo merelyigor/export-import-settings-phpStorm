@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="die" />
       <item value="indicated you would like to force delete (skip trash" />
       <item value="Do not create payment pages that are not on this site?" />
       <item value="Не создавать страницы платежей которых нет на сайте?" />
@@ -52,7 +53,6 @@
       <item value="обязательно" />
       <item value="checks the number of requests for certain time intervals" />
       <item value="requests count check" />
-      <item value="requests session check" />
     </histories>
     <option name="languageScores">
       <map>
@@ -61,9 +61,10 @@
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
+        <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="815" />
+        <entry key="RUSSIAN" value="816" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

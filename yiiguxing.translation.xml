@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="wcp ut print casino table show more btn()" />
+      <item value="All query params a converted to url string via" />
+      <item value="I replaced it with the query below to unify ajax preloading system" />
+      <item value="There was a raw array of casinos passed further to casinostable template" />
+      <item value="Creating array for fields which can be filtered by hooks" />
       <item value="и все что в нее входит с исправлениями " />
       <item value="loop casino page to insert into database" />
       <item value="loop casino page by insert into database" />
@@ -48,23 +53,18 @@
       <item value="timestamp" />
       <item value="checking the number of requested URLs" />
       <item value="checking the number of requests over time" />
-      <item value="the number of unique requests of the user's URL is checked" />
-      <item value="add checking passing time" />
-      <item value="add task cron elapsed time check" />
-      <item value="set" />
-      <item value="required" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="817" />
+        <entry key="ENGLISH" value="822" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
         <entry key="POLISH" value="1" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="818" />
+        <entry key="RUSSIAN" value="822" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

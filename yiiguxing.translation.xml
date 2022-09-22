@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="675" />
     <option name="newTranslationDialogY" value="448" />
     <histories>
+      <item value="или проблемы со style.css в теме" />
       <item value="SITE NOT CASINO" />
       <item value="idea" />
       <item value="ParsingGuard Main Guard Door check" />
@@ -52,7 +53,6 @@
       <item value="only changing limits" />
       <item value="only changes limit" />
       <item value="Please note that you can only add a limit to a new POST TYPE" />
-      <item value="Excessive limits can increase the time for creating a dump and working with the database" />
     </histories>
     <option name="languageScores">
       <map>
@@ -64,7 +64,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="833" />
+        <entry key="RUSSIAN" value="834" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />

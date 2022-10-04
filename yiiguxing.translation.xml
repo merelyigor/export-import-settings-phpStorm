@@ -2,38 +2,49 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="395" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Februar" />
-      <item value="luty" />
-      <item value="check status again" />
-      <item value="translates the months and days found in the past date string of any format" />
-      <item value="designe" />
-      <item value="Załaduj więcej" />
       <item value="Sunday" />
       <item value="Saturday" />
       <item value="Friday" />
       <item value="Thursday" />
       <item value="Wednesday" />
       <item value="Tuesday" />
-      <item value="Segunda-feira" />
       <item value="Monday" />
-      <item value="Dezembro" />
       <item value="December" />
-      <item value="Novembro" />
       <item value="November" />
+      <item value="Οκτώβριος" />
+      <item value="Σεπτέμβριος" />
       <item value="October" />
       <item value="September" />
       <item value="August" />
-      <item value="Julho" />
       <item value="July" />
       <item value="June" />
+      <item value="Μάιος" />
+      <item value="May" />
+      <item value="April" />
+      <item value="March" />
+      <item value="February" />
+      <item value="January" />
+      <item value="Φόρτωσε περισσότερα" />
+      <item value="Maj" />
+      <item value="maj" />
+      <item value="Mai" />
+      <item value="Może" />
+      <item value="Februar" />
+      <item value="luty" />
+      <item value="check status again" />
+      <item value="translates the months and days found in the past date string of any format" />
+      <item value="designe" />
+      <item value="Załaduj więcej" />
+      <item value="Segunda-feira" />
+      <item value="Dezembro" />
+      <item value="Novembro" />
+      <item value="Julho" />
       <item value="Maio" />
       <item value="maio" />
-      <item value="May" />
       <item value="Poderia" />
-      <item value="Mai" />
       <item value="Abril" />
-      <item value="April" />
       <item value="März" />
       <item value="Januar" />
       <item value="Write File Csv" />
@@ -43,39 +54,30 @@
       <item value="SITE NOT CASINO" />
       <item value="idea" />
       <item value="ParsingGuard Main Guard Door check" />
-      <item value="main guard door" />
-      <item value="This function will return an array containing all the field data for a given field_name" />
-      <item value="without-GEO" />
-      <item value="Adding a casino taxonomies softwares" />
-      <item value="exist" />
-      <item value="presence" />
-      <item value="Handler" />
-      <item value="Try to update offer id in existing stream" />
-      <item value="wcp ut print casino table show more btn()" />
-      <item value="All query params a converted to url string via" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="856" />
+        <entry key="ENGLISH" value="893" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
-        <entry key="POLISH" value="3" />
+        <entry key="POLISH" value="24" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="857" />
+        <entry key="RUSSIAN" value="858" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
-        <entry key="ROMANIAN" value="1" />
+        <entry key="ROMANIAN" value="2" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="PORTUGUESE" value="30" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="1" />
+        <entry key="GREEK" value="23" />
         <entry key="ITALIAN" value="2" />
       </map>
     </option>
@@ -87,7 +89,7 @@
     <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="POLISH" />
+        <option name="primaryLanguage" value="SPANISH" />
       </google-translate>
     </option>
     <option name="keepFormat" value="true" />

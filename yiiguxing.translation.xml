@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="963" />
-    <option name="newTranslationDialogY" value="395" />
+    <option name="maxHistorySize" value="300" />
+    <option name="newTranslationDialogX" value="1057" />
+    <option name="newTranslationDialogY" value="687" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="March" />
+      <item value="February" />
+      <item value="January" />
+      <item value="Load more" />
       <item value="Sunday" />
       <item value="Saturday" />
       <item value="Friday" />
@@ -13,19 +18,27 @@
       <item value="Monday" />
       <item value="December" />
       <item value="November" />
-      <item value="Οκτώβριος" />
-      <item value="Σεπτέμβριος" />
       <item value="October" />
       <item value="September" />
       <item value="August" />
       <item value="July" />
       <item value="June" />
-      <item value="Μάιος" />
+      <item value="mai" />
       <item value="May" />
       <item value="April" />
-      <item value="March" />
-      <item value="February" />
-      <item value="January" />
+      <item value="行進" />
+      <item value="Jan" />
+      <item value="á" />
+      <item value="Mars" />
+      <item value="Juni" />
+      <item value="Jul" />
+      <item value="Aprill" />
+      <item value="Martes" />
+      <item value="Mayo" />
+      <item value="Enero" />
+      <item value="Οκτώβριος" />
+      <item value="Σεπτέμβριος" />
+      <item value="Μάιος" />
       <item value="Φόρτωσε περισσότερα" />
       <item value="Maj" />
       <item value="maj" />
@@ -48,35 +61,32 @@
       <item value="März" />
       <item value="Januar" />
       <item value="Write File Csv" />
-      <item value="clearance" />
-      <item value="Preparing for updating files completed" />
-      <item value="или проблемы со style.css в теме" />
-      <item value="SITE NOT CASINO" />
-      <item value="idea" />
-      <item value="ParsingGuard Main Guard Door check" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="893" />
+        <entry key="ENGLISH" value="986" />
+        <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
+        <entry key="ICELANDIC" value="26" />
         <entry key="POLISH" value="24" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="858" />
+        <entry key="RUSSIAN" value="860" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
-        <entry key="DUTCH" value="1" />
+        <entry key="DUTCH" value="3" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
-        <entry key="NORWEGIAN" value="2" />
+        <entry key="NORWEGIAN" value="10" />
         <entry key="PORTUGUESE" value="30" />
+        <entry key="JAPANESE" value="21" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="27" />
         <entry key="GREEK" value="23" />
         <entry key="ITALIAN" value="2" />
       </map>
@@ -89,12 +99,13 @@
     <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="SPANISH" />
+        <option name="primaryLanguage" value="NORWEGIAN" />
       </google-translate>
     </option>
     <option name="keepFormat" value="true" />
     <option name="phoneticFontFamily" value=".SFNS-Regular" />
     <option name="primaryFontFamily" value=".SFNS-Regular" />
     <option name="showReplacementActionInContextMenu" value="true" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>

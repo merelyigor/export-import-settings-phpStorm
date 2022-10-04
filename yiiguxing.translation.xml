@@ -3,12 +3,7 @@
     <option name="maxHistorySize" value="300" />
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="March" />
-      <item value="February" />
-      <item value="January" />
-      <item value="Load more" />
       <item value="Sunday" />
       <item value="Saturday" />
       <item value="Friday" />
@@ -23,9 +18,17 @@
       <item value="August" />
       <item value="July" />
       <item value="June" />
-      <item value="mai" />
       <item value="May" />
       <item value="April" />
+      <item value="March" />
+      <item value="January" />
+      <item value="February" />
+      <item value="Load more" />
+      <item value="maio" />
+      <item value="Read less" />
+      <item value="SeptembOctoberer" />
+      <item value="April " />
+      <item value="mai" />
       <item value="行進" />
       <item value="Jan" />
       <item value="á" />
@@ -55,7 +58,6 @@
       <item value="Novembro" />
       <item value="Julho" />
       <item value="Maio" />
-      <item value="maio" />
       <item value="Poderia" />
       <item value="Abril" />
       <item value="März" />
@@ -65,7 +67,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="986" />
+        <entry key="ENGLISH" value="1060" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -77,13 +79,14 @@
         <entry key="RUSSIAN" value="860" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
-        <entry key="DUTCH" value="3" />
+        <entry key="DUTCH" value="19" />
         <entry key="CATALAN" value="1" />
         <entry key="CORSICAN" value="1" />
         <entry key="ROMANIAN" value="2" />
-        <entry key="NORWEGIAN" value="10" />
-        <entry key="PORTUGUESE" value="30" />
+        <entry key="NORWEGIAN" value="27" />
+        <entry key="PORTUGUESE" value="52" />
         <entry key="JAPANESE" value="21" />
+        <entry key="SWEDISH" value="22" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="27" />
@@ -99,7 +102,7 @@
     <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="NORWEGIAN" />
+        <option name="primaryLanguage" value="SWEDISH" />
       </google-translate>
     </option>
     <option name="keepFormat" value="true" />

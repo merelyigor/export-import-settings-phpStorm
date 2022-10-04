@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="963" />
     <option name="newTranslationDialogY" value="395" />
     <histories>
+      <item value="Februar" />
+      <item value="luty" />
       <item value="check status again" />
       <item value="translates the months and days found in the past date string of any format" />
       <item value="designe" />
@@ -33,7 +35,6 @@
       <item value="Abril" />
       <item value="April" />
       <item value="März" />
-      <item value="Februar" />
       <item value="Januar" />
       <item value="Write File Csv" />
       <item value="clearance" />
@@ -52,19 +53,18 @@
       <item value="Try to update offer id in existing stream" />
       <item value="wcp ut print casino table show more btn()" />
       <item value="All query params a converted to url string via" />
-      <item value="I replaced it with the query below to unify ajax preloading system" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="855" />
+        <entry key="ENGLISH" value="856" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
-        <entry key="POLISH" value="2" />
+        <entry key="POLISH" value="3" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
-        <entry key="GERMAN" value="3" />
-        <entry key="RUSSIAN" value="855" />
+        <entry key="GERMAN" value="4" />
+        <entry key="RUSSIAN" value="857" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="1" />
@@ -87,7 +87,7 @@
     <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="RUSSIAN" />
+        <option name="primaryLanguage" value="POLISH" />
       </google-translate>
     </option>
     <option name="keepFormat" value="true" />

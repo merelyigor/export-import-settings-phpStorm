@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="all regions country" />
       <item value="Sunday" />
       <item value="Saturday" />
       <item value="Friday" />
@@ -67,7 +68,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1060" />
+        <entry key="ENGLISH" value="1063" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -76,7 +77,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="860" />
+        <entry key="RUSSIAN" value="862" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />
@@ -86,7 +87,7 @@
         <entry key="NORWEGIAN" value="27" />
         <entry key="PORTUGUESE" value="52" />
         <entry key="JAPANESE" value="21" />
-        <entry key="SWEDISH" value="22" />
+        <entry key="SWEDISH" value="23" />
         <entry key="SERBIAN" value="2" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="27" />
@@ -102,7 +103,7 @@
     <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="googleTranslateSettings">
       <google-translate>
-        <option name="primaryLanguage" value="SWEDISH" />
+        <option name="primaryLanguage" value="RUSSIAN" />
       </google-translate>
     </option>
     <option name="keepFormat" value="true" />

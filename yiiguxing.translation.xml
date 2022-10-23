@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="To withdraw, you need to replenish your service wallet" />
+      <item value="Withdrawal is not possible because you have a negative balance" />
       <item value="Reference" />
       <item value="Amount" />
       <item value="You don’t have any transactions yet" />
@@ -74,7 +76,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1069" />
+        <entry key="ENGLISH" value="1071" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -83,7 +85,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="868" />
+        <entry key="RUSSIAN" value="870" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

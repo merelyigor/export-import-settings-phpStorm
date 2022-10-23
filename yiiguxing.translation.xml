@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Wait for the receipt of funds to the specified wallet. Note that the crediting of funds may take" />
+      <item value="The withdrawal was successful" />
       <item value="To withdraw, you need to replenish your" />
       <item value="To withdraw, you need to replenish your service wallet" />
       <item value="Withdrawal is not possible because you have a negative balance" />
@@ -77,7 +79,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1072" />
+        <entry key="ENGLISH" value="1074" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -86,7 +88,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="871" />
+        <entry key="RUSSIAN" value="873" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

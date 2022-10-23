@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Do whatever else you need to do here" />
       <item value="Wait for the receipt of funds to the specified wallet. Note that the crediting of funds may take" />
       <item value="The withdrawal was successful" />
       <item value="To withdraw, you need to replenish your" />
@@ -79,7 +80,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1074" />
+        <entry key="ENGLISH" value="1075" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -88,7 +89,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="873" />
+        <entry key="RUSSIAN" value="874" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

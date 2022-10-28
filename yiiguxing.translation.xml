@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Add" />
+      <item value="Добавление" />
+      <item value="Service" />
+      <item value="Services" />
       <item value="Greeting advantages" />
       <item value="Do whatever else you need to do here" />
       <item value="Wait for the receipt of funds to the specified wallet. Note that the crediting of funds may take" />
@@ -81,7 +85,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1076" />
+        <entry key="ENGLISH" value="1079" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -90,7 +94,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="875" />
+        <entry key="RUSSIAN" value="879" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

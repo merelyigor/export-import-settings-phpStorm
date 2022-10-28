@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="субота" />
       <item value="Title" />
       <item value="Add" />
       <item value="Добавление" />
@@ -106,7 +107,7 @@
         <entry key="PORTUGUESE" value="52" />
         <entry key="JAPANESE" value="21" />
         <entry key="SWEDISH" value="23" />
-        <entry key="SERBIAN" value="2" />
+        <entry key="SERBIAN" value="3" />
         <entry key="UKRAINIAN" value="2" />
         <entry key="SPANISH" value="27" />
         <entry key="GREEK" value="23" />

@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Empty news" />
       <item value="субота" />
       <item value="Title" />
       <item value="Add" />
@@ -87,7 +88,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1080" />
+        <entry key="ENGLISH" value="1081" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -96,7 +97,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="880" />
+        <entry key="RUSSIAN" value="881" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

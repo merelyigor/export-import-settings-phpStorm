@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="The displaced plugin" />
       <item value="Custom Cron Recurrences" />
       <item value="TOUCHscreen fix back animation" />
       <item value="get the title" />
@@ -92,7 +93,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1084" />
+        <entry key="ENGLISH" value="1085" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -101,7 +102,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="884" />
+        <entry key="RUSSIAN" value="885" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

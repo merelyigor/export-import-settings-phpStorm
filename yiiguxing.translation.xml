@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Not errors messages" />
+      <item value="Not error messages" />
+      <item value="Not error message" />
       <item value="Error message below" />
       <item value="внизу" />
       <item value="Error message down" />
@@ -96,7 +99,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1087" />
+        <entry key="ENGLISH" value="1090" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -105,7 +108,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="888" />
+        <entry key="RUSSIAN" value="891" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

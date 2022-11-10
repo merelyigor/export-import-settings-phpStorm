@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="no style.css file" />
+      <item value="not style.css file" />
       <item value="test error message by get param" />
       <item value="Not errors messages" />
       <item value="Not error messages" />
@@ -100,7 +102,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1091" />
+        <entry key="ENGLISH" value="1093" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -109,7 +111,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="892" />
+        <entry key="RUSSIAN" value="894" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

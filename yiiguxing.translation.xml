@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="You do not have a local site domain registered in the hosts file for the local Url" />
       <item value="Return the output as a string so we can control when it's displayed" />
       <item value="Attention! with Redis caching enabled, GEO Casino Sheet will not work correctly" />
       <item value="Table" />
@@ -106,7 +107,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1097" />
+        <entry key="ENGLISH" value="1098" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -115,7 +116,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="898" />
+        <entry key="RUSSIAN" value="899" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

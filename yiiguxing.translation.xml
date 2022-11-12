@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Start program settings" />
+      <item value="Start program options" />
       <item value="The Database Collate type. Don't change this if in doubt" />
       <item value="You do not have a local site domain registered in the hosts file for the local Url" />
       <item value="Return the output as a string so we can control when it's displayed" />
@@ -108,7 +110,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1099" />
+        <entry key="ENGLISH" value="1101" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -117,7 +119,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="900" />
+        <entry key="RUSSIAN" value="902" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

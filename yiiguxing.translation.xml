@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="You have successfully changed the value of item to the new value FALSE" />
       <item value="Start program settings" />
       <item value="Start program options" />
       <item value="The Database Collate type. Don't change this if in doubt" />
@@ -110,7 +111,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1101" />
+        <entry key="ENGLISH" value="1102" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -119,7 +120,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="902" />
+        <entry key="RUSSIAN" value="903" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

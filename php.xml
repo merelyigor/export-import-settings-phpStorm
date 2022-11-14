@@ -1,12 +1,12 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="2cd4e6b4-1306-4c38-b7de-037edb93ee1a" name="PHP 7.3" home="/usr/local/Cellar/php/8.1.12/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="2cd4e6b4-1306-4c38-b7de-037edb93ee1a" name="PHP 8.1.12" home="/usr/local/Cellar/php/8.1.12/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.3">
+      <interpreter name="PHP 8.1.12">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.12/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.12/bin/php" path_separator=":" version="8.1.12">
           <additional_php_ini>/usr/local/etc/php/8.1/conf.d/ext-opcache.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/8.1/php.ini</configuration_file>

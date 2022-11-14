@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="add useragent to white list agetn for plugin Allow direct visits" />
       <item value="Join array elements with a string" />
       <item value="Split a string by a string" />
       <item value="get works proxy" />
@@ -116,7 +117,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1107" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -125,7 +126,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="908" />
+        <entry key="RUSSIAN" value="909" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

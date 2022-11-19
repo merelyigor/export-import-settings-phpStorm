@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="listen" />
+      <item value="main config which includes all other configurations of the server and subdomains and proxies" />
       <item value="environment" />
       <item value="depends on" />
       <item value="How to get started with a new project" />
@@ -120,7 +122,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1112" />
+        <entry key="ENGLISH" value="1114" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -129,7 +131,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="913" />
+        <entry key="RUSSIAN" value="915" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

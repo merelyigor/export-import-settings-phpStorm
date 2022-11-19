@@ -4,6 +4,10 @@
       <mapping pattern="registration" type="AUTO_DETECTED" />
       <mapping pattern=".console.php.swn" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="*playbook.yml" type="YAML" />
+      <mapping pattern="*playbook.yaml" type="YAML" />
+      <mapping pattern="main.yml" type="YAML" />
+      <mapping pattern="main.yaml" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />

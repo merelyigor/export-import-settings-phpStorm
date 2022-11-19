@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Enhances stability of the worker" />
+      <item value="Disables 3rd party plugins during the calls to internal worker URLs" />
+      <item value="WPNewsman Pro - Worker Stability Enhancement" />
+      <item value="ignore everything in the root except the &quot;wp-content&quot; directory" />
       <item value="listen" />
       <item value="main config which includes all other configurations of the server and subdomains and proxies" />
       <item value="environment" />
@@ -122,7 +126,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1114" />
+        <entry key="ENGLISH" value="1118" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -131,7 +135,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="915" />
+        <entry key="RUSSIAN" value="919" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

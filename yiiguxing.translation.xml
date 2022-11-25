@@ -4,9 +4,10 @@
     <option name="newTranslationDialogX" value="1057" />
     <option name="newTranslationDialogY" value="687" />
     <histories>
+      <item value="Country" />
+      <item value="I save the geo-parameter to a static variable to optimize the request for geo data" />
       <item value="Preparing to withdraw the casino from the page for the corresponding country code" />
       <item value="Geo Page Casino Match By Country" />
-      <item value="Country" />
       <item value="remount server stop and start all service" />
       <item value="DO SOMETHING" />
       <item value="Enhances stability of the worker" />
@@ -131,7 +132,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1123" />
+        <entry key="ENGLISH" value="1125" />
         <entry key="ESTONIAN" value="24" />
         <entry key="BELARUSIAN" value="1" />
         <entry key="BULGARIAN" value="3" />
@@ -140,7 +141,7 @@
         <entry key="AFRIKAANS" value="1" />
         <entry key="DANISH" value="4" />
         <entry key="GERMAN" value="4" />
-        <entry key="RUSSIAN" value="924" />
+        <entry key="RUSSIAN" value="926" />
         <entry key="FRENCH" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="19" />

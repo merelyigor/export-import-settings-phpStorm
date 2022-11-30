@@ -2,8 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="registration" type="AUTO_DETECTED" />
+      <mapping ext="mo" type="AUTO_DETECTED" />
       <mapping pattern=".console.php.swn" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="SmartyConfig" />

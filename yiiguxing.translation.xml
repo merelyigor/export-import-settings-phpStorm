@@ -179,7 +179,7 @@
     <option name="translateDocumentation" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671542672111" />
+    <option name="lastTrimTime" value="1672143703966" />
   </component>
   <component name="Translation.Settings">
     <option name="autoSelectionMode" value="EXCLUSIVE" />
@@ -190,6 +190,8 @@
   <component name="Translation.States">
     <option name="lastReplacementTargetLanguage" value="RUSSIAN" />
     <histories>
+      <item value="Pass TRUE to get only md5_hash of casino building blocks" />
+      <item value="Pass" />
       <item value="IDs of post from which you need to get the building block of the casino" />
       <item value="Doesnt work when geo casino is enabled" />
       <item value="You entered anything other than 1 or 2 more than three times" />
@@ -219,8 +221,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="25" />
-        <entry key="RUSSIAN" value="25" />
+        <entry key="ENGLISH" value="27" />
+        <entry key="RUSSIAN" value="27" />
         <entry key="SCOTS_GAELIC" value="1" />
       </map>
     </option>

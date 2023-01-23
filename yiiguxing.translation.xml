@@ -190,6 +190,8 @@
   <component name="Translation.States">
     <option name="lastReplacementTargetLanguage" value="RUSSIAN" />
     <histories>
+      <item value="export" />
+      <item value="Choose an action down" />
       <item value="This is the geo under which this casino is displayed in the tables or (not-geo) if geo-tables not enabled also, this parameter can be omitted." />
       <item value="This is the geo under which this casino is displayed in the tables or (not-geo) if geo-tables are not enabled also, this parameter can be omitted." />
       <item value="This is the geo under which this casino is displayed in the tables" />
@@ -225,8 +227,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="31" />
-        <entry key="RUSSIAN" value="31" />
+        <entry key="ENGLISH" value="33" />
+        <entry key="RUSSIAN" value="33" />
         <entry key="SCOTS_GAELIC" value="1" />
       </map>
     </option>

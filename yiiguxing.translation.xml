@@ -190,6 +190,9 @@
   <component name="Translation.States">
     <option name="lastReplacementTargetLanguage" value="RUSSIAN" />
     <histories>
+      <item value="often" />
+      <item value="method for checking the fact of loading the site by the token" />
+      <item value="checking that the user has already successfully passed verification" />
       <item value="7 it's more like a robot than a human !" />
       <item value="it could be a human, or it could be a robot" />
       <item value="Run all actions should be done before init" />
@@ -237,13 +240,11 @@
       <item value="Failed to identify the folder path of the running project" />
       <item value="Failed to identify the name of the running project" />
       <item value="child" />
-      <item value="Compiling" />
-      <item value="Компиляция переводов" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="48" />
-        <entry key="RUSSIAN" value="48" />
+        <entry key="ENGLISH" value="51" />
+        <entry key="RUSSIAN" value="51" />
         <entry key="SCOTS_GAELIC" value="1" />
       </map>
     </option>
